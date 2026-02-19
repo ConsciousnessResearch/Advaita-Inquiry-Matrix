@@ -20,11 +20,11 @@ In traditional Advaita Vedānta:
 - The qualified student (adhikārī) assimilates the teaching
 - AIM constructs a Śāstra-oriented cognitive environment supporting this unfolding dynamically.
 
-3. System Architecture Overview
+## 3. System Architecture Overview
 
 AIM operates as a two-layer system:
 
-3.1 Text Ontology Layer (Static)
+### 3.1 Text Ontology Layer (Static)
 
 Each textual unit includes:
 
@@ -35,7 +35,7 @@ Each textual unit includes:
 - Prakriyā designation
 - Pedagogical logic is not embedded into the text schema.
 
-3.2 Pedagogical State Layer (Dynamic)
+### 3.2 Pedagogical State Layer (Dynamic)
 
 Tracks:
 
