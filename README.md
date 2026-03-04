@@ -1,4 +1,4 @@
-# AdvaitaInquiryMatrix
+# Advaita Inquiry Matrix
 a structured AI-assisted research architecture designed to automate pedagogical unfolding in Advaita Vedānta
 The system does **not** attempt to automate realization. It automates
 **structured śāstra-based unfolding** in response to a student's inquiries
