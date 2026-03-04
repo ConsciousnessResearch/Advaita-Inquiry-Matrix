@@ -1,0 +1,47 @@
+# AIM Text-Level Tag Schema
+
+# Version: v1.0
+
+schema_name: AIM_text_tags schema_version: v1.0
+
+required_fields: - speech_role - operation_type - ontological_target -
+epistemic_strategy - state_transition
+
+field_types: speech_role: array operation_type: array
+ontological_target: array epistemic_strategy: array state_transition:
+object
+
+state_transition_structure: required_keys: - from - to field_types:
+from: string to: string
+
+allowed_values:
+
+speech_role: - acarya - sisya - narrator - sruti_quote - smriti_quote
+
+operation_type: - qualification_filter - identity_exposure -
+identity_assertion - identity_contradiction_exposure -
+body_mortality_exposure - jiva_model_assertion -
+devotional_dualism_assertion - dualism_refutation - karma_negation -
+ontological_consistency_enforcement - phenomenological_objection -
+phenomenological_analysis - metaphysical_objection -
+ignorance_diagnosis - provisional_explanation - ontological_sealing
+
+ontological_target: - social_identity - body - jiva_model -
+devotional_dualism - ritual_identity - suffering_locus -
+metaphysical_dualism - scripture_literalism - residual_dualism
+
+epistemic_strategy: - inquiry_trigger - narrative_self_definition -
+reductio - mortality_argument - karmic_continuity_argument -
+contradiction_exposure - deha_atma_separation -
+theological_self_positioning - sruti_pramana - prohibition_logic -
+domain_separation_logic - incompatibility_argument - empirical_realism -
+locus_analysis - perception_logic - memory_argument -
+empirical_plurality_challenge - drstanta - pedagogical_gradation -
+ignorance_model_application - sruti_consolidation - unity_reassertion -
+commitment_enforcement
+
+validation_rules: - All required_fields must be present in every
+text_tags block. - All list-type fields must be arrays even if
+single-valued. - state_transition must contain both 'from' and 'to'
+keys. - Values must match allowed_values exactly (case-sensitive). - No
+additional top-level keys are permitted inside text_tags.
