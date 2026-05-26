@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "meditative_recitation",
+    "prakriyā": "pentadic_cosmic_contemplation",
+    "pedagogical_role": "macro_microcosm_mapping",
+    "adhikāra_level": "sarva",
+    "cognitive_mode": "ritual_contemplative",
+    "pedagogical_stage": "symbolic_training"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_7_1",
+      "sanskrit": "पृथिव्यन्तरिक्षं द्यौर्दिशोऽवान्तरदिशाः । अग्निर्वायुरादित्यश्चन्द्रमा नक्षत्राणि । आप ओषधयो वनस्पतय आकाश आत्मा । इत्यधिभूतम् । अथाध्यात्मम् । प्राणो व्यानोऽपान उदानः समानः । चक्षुः श्रोत्रं मनो वाक् त्वक् । चर्ममाꣳस स्नावास्थि मज्जा । एतदधिविधाय ऋषिरवोचत् । पाङ्क्तं वा इदꣳसर्वम् । पाङ्क्तेनैव पाङ्क्तग् स्पृणोतीति ॥ १ ॥ इति सप्तमोऽनुवाकः ॥",
+      "transliteration": "pṛthivī antarikṣaṃ dyaurdiśo'vāntaradiśāḥ | agnirvāyurādityaścandramā nakṣatrāṇi | āpa oṣadhayo vanaspataya ākāśa ātmā | ityadhibhūtam | athādhyātmam | prāṇo vyāno'pāna udānaḥ samānaḥ | cakṣuḥ śrotraṃ mano vāk tvak | carmamāṃsa snāvāsthi majjā | etadadhividhāya ṛṣiravocat | pāṅktaṃ vā idaṃsarvam | pāṅktenaiva pāṅktaṃ spṛṇoti || 1 || iti saptamo'nuvākaḥ ||",
+      "translation": "The earth, the sky, the interspace (antariksham), the heaven, the main quarter, the intermediate quarters; the fire, the air, the sun, the moon and the stars; the waters, the herbs, the forest trees, the space and Atman - So far, regarding all living creatures. Then come those respecting the Soul (adhyatmam) - the Prana, the Vyana, the Apana, the Udana and the Samana; the eyes, the ears, the mind, the speech and the touch; the skin, the flesh, the muscles, the bones and the marrow. After analysis and determining these, the seer said: ‘All this is Paanktam or five-fold or pentadic. The one set of fivefold grouping  sustains the other pentadic grouping.’",
+      "metadata": {
+        "cluster": "meditative_recitation",
+        "prakriyā": "pentadic_cosmic_contemplation",
+        "pedagogical_role": "macro_microcosm_mapping",
+        "adhikāra_level": "sarva",
+        "cognitive_mode": "ritual_contemplative",
+        "pedagogical_stage": "symbolic_training"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

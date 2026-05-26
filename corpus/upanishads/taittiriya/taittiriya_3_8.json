@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "realization_expression"
+    "prakriyā": "ethical_expression_of_realization",
+    "pedagogical_role": "respect_and_receive_nourishment",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative",
+    "pedagogical_stage": "realization_stabilization"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_3_8_1",
+      "sanskrit": "अन्नं न परिचक्षीत । तद्व्रतम् । आपो वा अन्नम् । ज्योतिरन्नादम् । अप्सु ज्योतिः प्रतिष्ठितम् । ज्योतिष्यापः प्रतिष्ठिताः । तदेतदन्नमन्ने प्रतिष्ठितम् । स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ १॥ इत्यष्टमोऽनुवाकः ॥",
+      "transliteration": "annaṃ na paricakṣīta | tadvratam | āpo vā annam | jyotirannādam | apsu jyotiḥ pratiṣṭhitam | jyotiṣyāpaḥ pratiṣṭhitāḥ | tadetadannamanne pratiṣṭhitam | sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā || 1 || ityaṣṭamo'nuvākaḥ ||",
+      "translation": "Do not reject food, that shall be your vow. Water is food. Fire is the food-eater. Fire is fixed in water. Water is fixed in fire. So food is fixed in food. He who knows that food is fixed in food, stands forever, established well. He becomes the possessor of food and he becomes the eater of food. He becomes great in progency, in cattle wealth and in the splendor of Brahmana-hood. He becomes great in fame.",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "ethical_expression_of_realization",
+        "pedagogical_role": "respect_and_receive_nourishment",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

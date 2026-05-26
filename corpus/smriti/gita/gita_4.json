@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "text": "bhagavad_gita"
+  },
+  "units": [
+    {
+      "id": "GITA_4_1",
+      "chapter": 4,
+      "verse": 1,
+      "sanskrit": "श्रीभगवानुवाच | इमं विवस्वते योगं प्रोक्तवानहमव्ययम् । विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥ १ ॥",
+      "transliteration": "śrī-bhagavān uvāca | imaṁ vivasvate yogaṁ proktavān aham avyayam | vivasvān manave prāha manur ikṣvākave ’bravīt || 1 ||",
+      "translation": "I imparted this imperishable Yoga to Vivasvān. Vivasvān taught this to Manu, and Manu transmitted this to Ikṣvāku.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_2",
+      "chapter": 4,
+      "verse": 2,
+      "sanskrit": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः । स कालेनेह महता योगे नष्टः परन्तप ॥ २ ॥",
+      "transliteration": "evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ | sa kāleneha mahatā yogo naṣṭaḥ paran-tapa || 2 ||",
+      "translation": "The king-sages knew this (Yoga) which was received thus in regular succession. That Yoga, O destroyer of foes, in now lost owing to a long lapse of time.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_3",
+      "chapter": 4,
+      "verse": 3,
+      "sanskrit": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः । भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥ ३ ॥",
+      "transliteration": "sa evāyaṁ mayā te ’dya yogaḥ proktaḥ purātanaḥ | bhakto ’si me sakhā ceti rahasyaṁ hy etad uttamam || 3 ||",
+      "translation": "That ancient Yog itself, which is this, has been taught to you by Me today, considering that you are My devotee and friend. For, this (Yoga) is a profound secret.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_4",
+      "chapter": 4,
+      "verse": 4,
+      "sanskrit": "अर्जुन उवाच अपरं भवतो जन्म परं जन्म विवस्वतः । कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ॥ ४ ॥",
+      "transliteration": "arjuna uvāca | aparaṁ bhavato janma paraṁ janma vivasvataḥ | katham etad vijānīyāṁ tvam ādau proktavān iti || 4 ||",
+      "translation": "Arjuna said: Your birth was later, (whereas) the birth of Vivasvān was earlier. How am I to understand this that You instructed (him) in the beginning?",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_5",
+      "chapter": 4,
+      "verse": 5,
+      "sanskrit": "श्रीभगवानुवाच बहूनि मे व्यतीतानि जन्मानि तव चार्जुन । तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥ ५ ॥",
+      "transliteration": "śrī-bhagavān uvāca | bahūni me vyatītāni janmāni tava cārjuna | tāny ahaṁ veda sarvāṇi na tvaṁ vettha paran-tapa || 5 ||",
+      "translation": "O Arjuna, many lives of Mine have passed, and so have yours. I know them all, (but) you know not, O scorcher of enemies!",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_6",
+      "chapter": 4,
+      "verse": 6,
+      "sanskrit": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् । प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ॥ ६ ॥",
+      "transliteration": "ajo ’pi sann avyayātmā bhūtānām īśvaro ’pi san | prakṛtiṁ svām adhiṣṭhāya sambhavāmy ātma-māyayā || 6 ||",
+      "translation": "Though I am birthless, undecaying by nature, and the Bhagavān of beings, (still) by subjugating My Prakṛti, I take birth by means of My own Māyā.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_7",
+      "chapter": 4,
+      "verse": 7,
+      "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत । अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥ ७ ॥",
+      "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata | abhyutthānam adharmasya tadātmānaṁ sṛjāmy aham || 7 ||",
+      "translation": "O scion of the Bharata dynasty, whenever there is a decline of virtue and increase of vice, then do I manifest Myself.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_8",
+      "chapter": 4,
+      "verse": 8,
+      "sanskrit": "परित्राणाय साधुनां विनाशाय च दुष्कृताम् । धर्मसंस्थानार्थाय सम्भवामि युगे युगे ॥ ८ ॥",
+      "transliteration": "paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām | dharma-saṁsthāpanārthāya sambhavāmi yuge yuge || 8 ||",
+      "translation": "For the protection of the pious, the destruction of the evildoers, and establishing virtue, I manifest Myself in every age.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_9",
+      "chapter": 4,
+      "verse": 9,
+      "sanskrit": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः । त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ॥ ९ ॥",
+      "transliteration": "janma karma ca me divyam evaṁ yo vetti tattvataḥ | tyaktvā dehaṁ punar janma naiti mām eti so ’rjuna || 9 ||",
+      "translation": "He who thus knows truly the divine birth and actions of Mine does not get rebirth after casting off the body. He attains Me, O Arjuna.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_10",
+      "chapter": 4,
+      "verse": 10,
+      "sanskrit": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः । बहवो ज्ञानतपसा पूता मद्भ‍ावमागताः ॥ १० ॥",
+      "transliteration": "vīta-rāga-bhaya-krodhā man-mayā mām upāśritāḥ | bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ || 10 ||",
+      "translation": "Many who were devoid of attachment, fear and anger, who were absorbed in Me, who had taken refuge in Me, and were purified by the austerity of Knowledge, have attained My state.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_11",
+      "chapter": 4,
+      "verse": 11,
+      "sanskrit": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् । मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥ ११ ॥",
+      "transliteration": "ye yathā māṁ prapadyante tāṁs tathaiva bhajāmy aham | mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ || 11 ||",
+      "translation": "According to the manner in which they approach Me, I favour them in that very manner. O son of Prthā, human beings follow My path in every way.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_12",
+      "chapter": 4,
+      "verse": 12,
+      "sanskrit": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवता । क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥ १२ ॥",
+      "transliteration": "kāṅkṣantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ | kṣipraṁ hi mānuṣe loke siddhir bhavati karma-jā || 12 ||",
+      "translation": "Longing for the fruition of actions (of their rites and duties), they worship the gods here. For, in the human world, success from action comes quickly.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_13",
+      "chapter": 4,
+      "verse": 13,
+      "sanskrit": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः । तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥ १३ ॥",
+      "transliteration": "cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ | tasya kartāram api māṁ viddhy akartāram avyayam || 13 ||",
+      "translation": "The four castes have been created by Me through a classification of the guṇas and duties. Even though I am the agent of that (act of classification), still know Me to be a non-agent and changeless.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_14",
+      "chapter": 4,
+      "verse": 14,
+      "sanskrit": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा । इति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥ १४ ॥",
+      "transliteration": "na māṁ karmāṇi limpanti na me karma-phale spṛhā | iti māṁ yo ’bhijānāti karmabhir na sa badhyate || 14 ||",
+      "translation": "Actions do not taint Me; for Me there is no hankering for the results of actions. One who knows Me thus, does not become bound by actions.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_15",
+      "chapter": 4,
+      "verse": 15,
+      "sanskrit": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः । कुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ॥ १५ ॥",
+      "transliteration": "evaṁ jñātvā kṛtaṁ karma pūrvair api mumukṣubhiḥ | kuru karmaiva tasmāt tvaṁ pūrvaiḥ pūrva-taraṁ kṛtam || 15 ||",
+      "translation": "Having known thus, duties were performed even by the ancient seekers of Liberation. Therefore you undertake action itself as was performed earlier by the ancient ones.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_16",
+      "chapter": 4,
+      "verse": 16,
+      "sanskrit": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः । तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽश‍ुभात् ॥ १६ ॥",
+      "transliteration": "kiṁ karma kim akarmeti kavayo ’py atra mohitāḥ | tat te karma pravakṣyāmi yaj jñātvā mokṣyase ’śubhāt || 16 ||",
+      "translation": "Even the intelligent are confounded as to what is action and what is inaction. I shall tell you of that action by knowing which you will become free from evil.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_17",
+      "chapter": 4,
+      "verse": 17,
+      "sanskrit": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः । अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥ १७ ॥",
+      "transliteration": "karmaṇo hy api boddhavyaṁ boddhavyaṁ ca vikarmaṇaḥ | akarmaṇaś ca boddhavyaṁ gahanā karmaṇo gatiḥ || 17 ||",
+      "translation": "For there is something to be known even about action, and something to be known about prohibited action; and something has to be known about inaction. The true nature of action is inscrutable.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_18",
+      "chapter": 4,
+      "verse": 18,
+      "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः । स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥ १८ ॥",
+      "transliteration": "karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ | sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt || 18 ||",
+      "translation": "He who finds inaction in action, and action in inaction, he is the wise one among men; he is engaged in Yoga and is a performer of all actions!",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_19",
+      "chapter": 4,
+      "verse": 19,
+      "sanskrit": "यस्य सर्वे समारम्भाः कामसंकल्पवर्जिताः । ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ॥ १९ ॥",
+      "transliteration": "yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ | jñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ || 19 ||",
+      "translation": "The wise call him learned whose actions are all devoid of desires and their thoughts, and whose actions have been burnt away by the fire of wisdom.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_20",
+      "chapter": 4,
+      "verse": 20,
+      "sanskrit": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः । कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ॥ २० ॥",
+      "transliteration": "tyaktvā karma-phalāsaṅgaṁ nitya-tṛpto nirāśrayaḥ | karmaṇy abhipravṛtto ’pi naiva kiñcit karoti saḥ || 20 ||",
+      "translation": "Having given up attachment to the results of action, he who is ever-contented, dependent on nothing, he really does not do anything even though engaged in action.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_21",
+      "chapter": 4,
+      "verse": 21,
+      "sanskrit": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः । शारीरं केवलं कर्म कुर्वन्नाप्‍नोति किल्बिषम् ॥ २१ ॥",
+      "transliteration": "nirāśīr yata-cittātmā tyakta-sarva-parigrahaḥ | śārīraṁ kevalaṁ karma kurvan nāpnoti kilbiṣam || 21 ||",
+      "translation": "One who is without solicitation, who has the mind and sense-organs under control, (and) is totally without possessions, he incurs no sin by performing actions merely for the (maintenance of the) body.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_22",
+      "chapter": 4,
+      "verse": 22,
+      "sanskrit": "यदृच्छालाभसंतुष्टो द्वन्द्वातीतो विमत्सरः । समः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ॥ २२ ॥",
+      "transliteration": "yadṛcchā-lābha-santuṣṭo dvandvātīto vimatsaraḥ | samaḥ siddhāv asiddhau ca kṛtvāpi na nibadhyate || 22 ||",
+      "translation": "Remaining satisfied with what comes unasked for, having transcended the dualities, being free from spite, and equipoised in success and failure, he is not bound even by performing actions.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_23",
+      "chapter": 4,
+      "verse": 23,
+      "sanskrit": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः । यज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥ २३ ॥",
+      "transliteration": "gata-saṅgasya muktasya jñānāvasthita-cetasaḥ | yajñāyācarataḥ karma samagraṁ pravilīyate || 23 ||",
+      "translation": "Of the liberated person who has got rid of attachment, whose mind is fixed in Knowledge, actions undertaken for sacrifice get totally destroyed.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_24",
+      "chapter": 4,
+      "verse": 24,
+      "sanskrit": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्न‍ौ ब्रह्मणा हुतम् । ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥ २४ ॥",
+      "transliteration": "brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam | brahmaiva tena gantavyaṁ brahma-karma-samādhinā || 24 ||",
+      "translation": "The ladle is Brahman, the oblation is Brahman, the offering is poured by Brahman in the fire of Brahman. Brahman alone is to be reached by him who has concentration on Brahman as the objective.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_25",
+      "chapter": 4,
+      "verse": 25,
+      "sanskrit": "दैवमेवापरे यज्ञं योगिनः पर्युपासते । ब्रह्माग्न‍ावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥ २५ ॥",
+      "transliteration": "daivam evāpare yajñaṁ yoginaḥ paryupāsate | brahmāgnāv apare yajñaṁ yajñenaivopajuhvati || 25 ||",
+      "translation": "Other yogīs undertake sacrifice to gods alone. Others offer the Self, as a sacrifice by the Self itself, in the fire of Brahman.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_26",
+      "chapter": 4,
+      "verse": 26,
+      "sanskrit": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्न‍िषु जुह्वति । शब्दादीन्विषयानन्य इन्द्रियाग्न‍िषु जुह्वति ॥ २६ ॥",
+      "transliteration": "śrotrādīnīndriyāṇy anye saṁyamāgniṣu juhvati | śabdādīn viṣayān anya indriyāgniṣu juhvati || 26 ||",
+      "translation": "Others offer the sense-organs, namely ear etc., in the fires of self-control. Others offer the objects, namely sound etc., in the fires of the sense-organs.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_27",
+      "chapter": 4,
+      "verse": 27,
+      "sanskrit": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे । आत्मसंयमयोगाग्न‍ौ जुह्वति ज्ञानदीपिते ॥ २७ ॥",
+      "transliteration": "sarvāṇīndriya-karmāṇi prāṇa-karmāṇi cāpare | ātma-saṁyama-yogāgnau juhvati jñāna-dīpite || 27 ||",
+      "translation": "Others offer all the activities of the sense-organs and the vital force into the fire of the Yoga of self-control, which has been lighted by Knowledge.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_28",
+      "chapter": 4,
+      "verse": 28,
+      "sanskrit": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे । स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥ २८ ॥",
+      "transliteration": "dravya-yajñās tapo-yajñā yoga-yajñās tathāpare | svādhyāya-jñāna-yajñāś ca yatayaḥ saṁśita-vratāḥ || 28 ||",
+      "translation": "Similarly, others are performers of sacrifices through wealth, through austerity, through Yoga, and through study and knowledge; others are ascetics with severe vows.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_29",
+      "chapter": 4,
+      "verse": 29,
+      "sanskrit": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे । प्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥ २९ ॥",
+      "transliteration": "apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare | prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ || 29 ||",
+      "translation": "Constantly practising control of the vital forces by stopping the movements of the outgoing and the incoming breaths, some offer as a sacrifice the outgoing breath in the incoming breath; while still others, the incoming breath in the outgoing breath.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_30",
+      "chapter": 4,
+      "verse": 30,
+      "sanskrit": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति | सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ॥ ३० ॥",
+      "transliteration": "apare niyatāhārāḥ prāṇān prāṇeṣu juhvati | sarve ’py ete yajña-vido yajña-kṣapita-kalmaṣāḥ || 30 ||",
+      "translation": "Others, having their food regulated, offer the vital forces in the vital forces. All of them are knowers of the sacrifice and have their sins destroyed by sacrifice.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_31",
+      "chapter": 4,
+      "verse": 31,
+      "sanskrit": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् | नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥ ३१ ॥",
+      "transliteration": "yajña-śiṣṭāmṛta-bhujo yānti brahma sanātanam | nāyaṁ loko ’sty ayajñasya kuto ’nyaḥ kuru-sattama || 31 ||",
+      "translation": "Those who partake of the nectar left over after a sacrifice, reach the eternal Brahman. This world ceases to exist for one who does not perform sacrifices. What to speak of the other (world), O best among the Kurus (Arjuna)!",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_32",
+      "chapter": 4,
+      "verse": 32,
+      "sanskrit": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे । कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥ ३२ ॥",
+      "transliteration": "evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe | karma-jān viddhi tān sarvān evaṁ jñātvā vimokṣyase || 32 ||",
+      "translation": "Thus, various kinds of sacrifices lie spread at the mouth of the Vedas. Know them all to be born of action. Knowing thus, you will become liberated.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_33",
+      "chapter": 4,
+      "verse": 33,
+      "sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप । सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥ ३३ ॥",
+      "transliteration": "śreyān dravya-mayād yajñāj jñāna-yajñaḥ paran-tapa | sarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate || 33 ||",
+      "translation": "O destroyer of enemies, the sacrifice of Knowledge is considered greater than sacrifices requiring materials. O son of Prthā, all actions in their totality culminate in Knowledge.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_34",
+      "chapter": 4,
+      "verse": 34,
+      "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्न‍ेन सेवया । उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥ ३४ ॥",
+      "transliteration": "tad viddhi praṇipātena paripraśnena sevayā | upadekṣyanti te jñānaṁ jñāninas tattva-darśinaḥ || 34 ||",
+      "translation": "Know That through prostration, inquiry and service. The wise ones who have realized the Truth will impart the Knowledge to you.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_35",
+      "chapter": 4,
+      "verse": 35,
+      "sanskrit": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव । येन भूतान्यशेषाणि द्रक्ष्यस्यात्मन्यथो मयि ॥ ३५ ॥",
+      "transliteration": "yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava | yena bhūtāny aśeṣāṇi drakṣyasy ātmany atho mayi || 35 ||",
+      "translation": "Knowing which, O Pāṇḍava (Arjuna), you will not come under delusion again in this way, and through which you will see all beings without exception in the Self and also in Me.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_36",
+      "chapter": 4,
+      "verse": 36,
+      "sanskrit": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः । सर्वं ज्ञानप्ल‍वेनैव वृजिनं सन्तरिष्यसि ॥ ३६ ॥",
+      "transliteration": "api ced asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛt-tamaḥ | sarvaṁ jñāna-plavenaiva vṛjinaṁ santariṣyasi || 36 ||",
+      "translation": "Even if you be the worst sinner among all sinners, still you will cross over all wickedness with the raft of Knowledge alone.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_37",
+      "chapter": 4,
+      "verse": 37,
+      "sanskrit": "यथैधांसि समिद्धोऽग्न‍िर्भस्मसात्कुरुतेऽर्जुन । ज्ञानाग्न‍िः सर्वकर्माणि भस्मसात्कुरुते तथा ॥ ३७ ॥",
+      "transliteration": "yathaidhāṁsi samiddho ’gnir bhasma-sāt kurute ’rjuna | jñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā || 37 ||",
+      "translation": "O Arjuna, as a blazing fire reduces pieces of wood to ashes, similarly the fire of Knowledge reduces all actions to ashes.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_38",
+      "chapter": 4,
+      "verse": 38,
+      "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते । तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥ ३८ ॥",
+      "transliteration": "na hi jñānena sadṛśaṁ pavitram iha vidyate | tat svayaṁ yoga-saṁsiddhaḥ kālenātmani vindati || 38 ||",
+      "translation": "Indeed, there is nothing purifying here comparable to Knowledge. One who has become perfected after a (long) time through Yoga, realizes That by himself in his own heart.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_39",
+      "chapter": 4,
+      "verse": 39,
+      "sanskrit": "श्रद्धावाँल्ल‍भते ज्ञानं तत्परः संयतेन्द्रियः । ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥ ३९ ॥",
+      "transliteration": "śraddhāvāḻ labhate jñānaṁ tat-paraḥ saṁyatendriyaḥ | jñānaṁ labdhvā parāṁ śāntim acireṇādhigacchati || 39 ||",
+      "translation": "The man who has faith, is diligent and has control over the sense-organs, attains Knowledge. Achieving Knowledge, one soon attains supreme Peace.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_40",
+      "chapter": 4,
+      "verse": 40,
+      "sanskrit": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति । नायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥ ४० ॥",
+      "transliteration": "ajñaś cāśraddadhānaś ca saṁśayātmā vinaśyati | nāyaṁ loko ’sti na paro na sukhaṁ saṁśayātmanaḥ || 40 ||",
+      "translation": "One who is ignorant and faithless, and has a doubting mind perishes. Neither this world nor the next nor happiness exists for one who has a doubting mind.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_41",
+      "chapter": 4,
+      "verse": 41,
+      "sanskrit": "योगसन्न्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् । आत्मवन्तं न कर्माणि निबध्न‍‍न्ति धनञ्जय ॥ ४१ ॥",
+      "transliteration": "yoga-sannyasta-karmāṇaṁ jñāna-sañchinna-saṁśayam | ātmavantaṁ na karmāṇi nibadhnanti dhanañ-jaya || 41 ||",
+      "translation": "O Dhanañjaya (Arjuna), actions do not bind one who has renounced actions through Yoga, whose doubt has been fully dispelled by Knowledge, and who is not careless.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "GITA_4_42",
+      "chapter": 4,
+      "verse": 42,
+      "sanskrit": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः । छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥ ४२ ॥",
+      "transliteration": "tasmād ajñāna-sambhūtaṁ hṛt-sthaṁ jñānāsinātmanaḥ | chittvainaṁ saṁśayaṁ yogam ātiṣṭhottiṣṭha bhārata || 42 ||",
+      "translation": "Therefore, O scion of the Bharata dynasty, take recourse to Yoga and rise up, cutting asunder with the sword of Knowledge this doubt of your own in the heart, arising from ignorance.",
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 42,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

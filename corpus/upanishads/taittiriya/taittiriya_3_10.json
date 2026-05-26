@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "cluster": "realization_expression",
+    "prakriyā": "post_realization_integration",
+    "pedagogical_role": "integrate_kosha_model_after_realization"
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative",
+    "pedagogical_stage": "realization_stabilization"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_3_10_1",
+      "sanskrit": "न कञ्चन वसतौ प्रत्याचक्षीत । तद्व्रतम् । तस्माद्यया कया च विधया बह्वन्नं प्राप्नुयात् । अराध्यस्मा अन्नमित्याचक्षते । एतद्वै मुखतोऽन्नꣳराद्धम् । मुखतोऽस्मा अन्नꣳराध्यते । एतद्वै मध्यतोऽन्नꣳराद्धम् । मध्यतोऽस्मा अन्नꣳराध्यते । एदद्वा अन्ततोऽन्नꣳराद्धम् । अन्ततोऽस्मा अन्न राध्यते ॥ १॥",
+      "transliteration": "na kañcana vasatau pratyācakṣīta | tadvratam | tasmādyayā kayā ca vidhayā bahvannaṃ prāpnuyāt | arādhyasmā annamityācakṣate | etadvai mukhato'nnaṃrāddham | mukhato'smā annaṃrādhyate | etadvai madhyato'nnaṃrāddham | madhyato'smā annaṃrādhyate | edadvā antato'nnaṃrāddham | antato'smā anna rādhyate || 1 ||",
+      "translation": "Do not turn away anyone who seeks shelter and stay. This is the vow. Let one therefore, acquire plenty of food by any means whatsoever. They should say: 'Food is ready.' If the food is prepared in the best manner, the food is given to him (the guest) also in the best manner. If the food is prepared in the medium manner, food is also given to him in the medium manner. If food is prepared in the lowest manner, the same food is also given to him in the lower manner. he who knows thus, will obtain all the rewards as mentioned above.",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "ethical_expression_of_realization",
+        "pedagogical_role": "hospitality_and_food_sharing",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_3_10_2",
+      "sanskrit": "य एवं वेद । क्षेम इति वाचि । योगक्षेम इति प्राणापानयोः । कर्मेति हस्तयोः । गतिरिति पादयोः । विमुक्तिरिति पायौ । इति मानुषीः समाज्ञाः । अथ दैवीः । तृप्तिरिति वृष्टौ । बलमिति विद्युति ॥ २ ॥",
+      "transliteration": "ya evaṃ veda | kṣema iti vāci | yogakṣema iti prāṇāpānayoḥ | karmeti hastayoḥ | gatiriti pādayoḥ | vimuktiriti pāyau | iti mānuṣīḥ samājñāḥ | atha daivīḥ | tṛptiriti vṛṣṭau | balamiti vidyuti || 2 ||",
+      "translation": "The Supreme resides in speech as 'well-being'; in Prana and Apana as acquirer and preserver; in the hands as actions, in the legs as movement, in the anus as the activity of excretion. Thus is the meditation of Brahman in respect of man. Now follows the meditation upon the Adhidivika; as satisfaction in the rain, as power in the lightning;",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "realization_expression",
+        "pedagogical_role": "identity_with_cosmic_nourishment",
+        "adhikāra_level": "uttama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_3_10_3",
+      "sanskrit": "यश इति पशुषु । ज्योतिरिति नक्षत्रेषु । प्रजातिरमृतमानन्द इत्युपस्थे । सर्वमित्याकाशे । तत्प्रतिष्ठेत्युपासीत । प्रतिष्ठावान् भवति । तन्मह इत्युपासीत । महान्भवति । तन्मन इत्युपासीत । मानवान्भवति ॥ ३ ॥",
+      "transliteration": "yaśa iti paśuṣu | jyotiriti nakṣatreṣu | prajātiramṛtamānanda ityupasthe | sarvamityākāśe | tatpratiṣṭhetyupāsīta | pratiṣṭhāvān bhavati | tanmaha ityupāsīta | mahānbhavati | tanmana ityupāsīta | mānavānbhavati || 3 ||",
+      "translation": "As fame in the cattle, as light in the stars, as offspring, immortality, and joy in the organs of procreation, and as all in the Akasha. Let him meditate on the Supreme as support; he becomes well-supported. Let one worship It as mind; he becomes thoughtful.",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "contemplative_correspondence",
+        "pedagogical_role": "meditate_on_brahman_in_cosmic_functions",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_3_10_4",
+      "sanskrit": "तन्नम इत्युपासीत । नम्यन्तेऽस्मै कामाः । तद्ब्रह्मेत्युपासीत । ब्रह्मवान्भवति । तद्ब्रह्मणः परिमर इत्युपासीत । पर्येणं म्रियन्ते द्विषन्तः सपत्नाः । परि येऽप्रिया भ्रातृव्याः । स यश्चायं पुरुषे । यश्चासावादित्ये । स एकः ॥ ४ ॥",
+      "transliteration": "tannama ityupāsīta | namyante'smai kāmāḥ | tadbrahmetyupāsīta | brahmavānbhavati | tadbrahmaṇaḥ parimara ityupāsīta | paryeṇaṃ mriyante dviṣantaḥ sapatnāḥ | pari ye'priyā bhrātṛvyāḥ | sa yaścāyaṃ puruṣe | yaścāsāvāditye | sa ekaḥ || 4 ||",
+      "translation": "Let him worship That as Namah (obeisance); to him all desires shall come to pay homage. Let him meditate upon That as the Supreme; he comes to supremacy in life. Let him contemplate upon That as the 'destructive aspect' of Brahman; all those enemies who hate him and those rivals whom he does not like 'die around him'. The reality in the core of man and the Reality which is in the Sun are one.",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "contemplative_upasana",
+        "pedagogical_role": "contemplate_brahman_as_cosmic_identity",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_3_10_5",
+      "sanskrit": "स य एवंवित् । अस्माल्लोकात्प्रेत्य । एतमन्नमयमात्मानमुपसङ्क्रम्य । एतं प्राणमयमात्मानमुपसङ्क्रम्य । एतं मनोमयमात्मानमुपसङ्क्रम्य । एतं विज्ञानमयमात्मानमुपसङ्क्रम्य । एतमानन्दमयमात्मानमुपसङ्क्रम्य । इमाँल्लोकन्कामान्नी कामरूप्यनुसञ्चरन् । एतत् साम गायन्नास्ते । हा ३ वु हा ३ वु हा ३ वु ॥ ५ ॥",
+      "transliteration": "sa ya evaṃvit | asmāllokātpretya | etamannamayamātmānamupasaṅkramya | etaṃ prāṇamayamātmānamupasaṅkramya | etaṃ manomayamātmānamupasaṅkramya | etaṃ vijñānamayamātmānamupasaṅkramya | etamānandamayamātmānamupasaṅkramya | imām̐llokankāmānnī kāmarūpyanusañcaran | etat sāma gāyannāste | hāāāvu hāāāvu hāāāvu || 5 ||",
+      "translation": "He who knows this, on leaving this world, first attains this Atman made of food, next attains this Atman made of Prana, next this Atman made of mind, next this Atman made of Buddhi and lastly this Atman made of Bliss. And thereafter, eating what he likes, and assuming any form according to his wishes, he roams upon the face of this globe and sits singing the following Sama song of joy: Haaavu, Haaavu, Haaavu",
+      "metadata": {
+        "cluster": "identity_analysis",
+        "prakriyā": "kosha_transcendence",
+        "pedagogical_role": "describe_transcendence_of_sheaths",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_3_10_6",
+      "sanskrit": "अहमन्नमहमन्नमहमन्नम् । अहमन्नादोऽ३हमन्नादोऽ३अहमन्नादः । अहꣳश्लोककृदहꣳश्लोककृदहꣳश्लोककृत् । अहमस्मि प्रथमजा ऋता३स्य । पूर्वं देवेभ्योऽमृतस्य ना३भाइ । यो मा ददाति स इदेव मा३अऽवाः । अहमन्नमन्नमदन्तमा३द्मि । अहं विश्वं भुवनमभ्यभवा३म् । सुवर्न ज्योतीः ॥ ६ ॥ य एवं वेद । इत्युपनिषत् । इति दशमोऽनुवाकः ॥ ॥ इति भृगुवल्ली समाप्ता ॥  ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु मा विद्विषावहै । ॥ ॐ शान्तिः शान्तिः शान्तिः ॥",
+      "transliteration": "ahamannamahamannamahamannam | ahamannādo'''hamannādo'''hamannādaḥ | ahaṃ ślokakṛdahaṃ ślokakṛdahaṃ ślokakṛt | ahamasmi prathamajā ṛtāāāsya | pūrvaṃ devebhyo'mṛtasya nāāābhāyi | yo mā dadāti sa ideva māāāvāḥ | ahamannamannamadantamāāādmi | ahaṃ viśvaṃ bhuvanamabhyabhavāāām | suvarna jyotīḥ || 6 || ya evaṃ veda | Ityupaniṣat | iti daśamo'nuvākaḥ || || iti bhṛguvallī samāptā ||  oṃ saha nāvavatu | saha nau bhunaktu | saha vīryaṃ karavāvahai | tejasvi nāvadhītamastu mā vidviṣāvahai | || oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+      "translation": "I am the food, I am the food, I am the food. I am the eater of food, I am the eater of food, I am the eater of food. I am the author of the Shloka. I am the author of the Shloka. I am the author of the Shloka. I am the first born (Hiranyagarbha) of the True (of the Eternal and the immortal). I am the center of immortality, prior to the Gods. whoever gives me, he surely does save thus. I am the food that eats him who eats food. I have conquered all, in this world. I am luminous like the sun. He who knows thus (also attains the aforesaid results). This is the Upanishad.  Here ends the Bhrgu chapter.  Om. May He protect us both. May He help us both to enjoy the fruits of scriptural study. May we both exert together to find the true meaning of the sacred text. May our studies be fruitful. May we never quarrel with each other. Om. Peace! Peace! Peace!",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "realization_expression",
+        "pedagogical_role": "ecstatic_identity_with_brahman",
+        "adhikāra_level": "uttama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_expression"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 6,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

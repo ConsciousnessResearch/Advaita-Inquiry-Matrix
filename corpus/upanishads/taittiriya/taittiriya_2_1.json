@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "cluster": "guru_transmission",
+    "prakriyā": "śānti_mantra_invocation",
+    "pedagogical_role": "establish_learning_field",
+    "adhikāra_level": "sarva",
+    "cognitive_mode": "ritual_contemplative",
+    "pedagogical_stage": "initiation"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_2_1_0",
+      "sanskrit": "ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु मा विद्विषावहै । ॐ शान्तिः शान्तिः शान्तिः ॥",
+      "transliteration": "oṃ saha nāvavatu | saha nau bhunaktu | saha vīryaṃ karavāvahai | tejasvināvadhītamastu mā vidviṣāvahai | oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+      "translation": "May Brahman protect us both! May He give us both to enjoy! May we both attain efficiency! May our study prove effective! May we not hate (each other) at all! Om! Peace! Peace! Peace!",
+      "metadata": {
+        "cluster": "guru_transmission",
+        "prakriyā": "śānti_mantra_invocation",
+        "pedagogical_role": "establish_learning_field",
+        "adhikāra_level": "sarva",
+        "cognitive_mode": "ritual_contemplative",
+        "pedagogical_stage": "initiation"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_2_1_1",
+      "sanskrit": "तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योन्नम् । अन्नात्पुरुषः । स वा एष पुरुषोऽन्नरसमयः । तस्येदमेव शिरः । अयं दक्षिणः पक्षः । अयमुत्तरः पक्षः । अयमात्मा । इदं पुच्छं प्रतिष्ठा । तदप्येष श्लोको भवति ॥ १ ॥ इति प्रथमोऽनुवाकः ॥",
+      "transliteration": "tasmād vā etasmād ātmana ākāśaḥ sambhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyonnam | annātpuruṣaḥ | sa vā eṣa puruṣo'nnarasamayaḥ | tasyedameva śiraḥ | ayaṃ dakṣiṇaḥ pakṣaḥ | ayamuttaraḥ pakṣaḥ | ayamātmā | idaṃ pucchaṃ pratiṣṭhā | tadapyeṣa śloko bhavati || 1 || iti prathamo'nuvākaḥ ||",
+      "translation": "From That, verily—from This Self—is ākāśa (ether) born; from ākāśa, the air; from the air, fire; from fire, water; from water, earth; from earth, plants; from plants, food: from food, man. He, verily, is this man, formed of food-essence. This itself is his head; this is the right wing, this is the left wing, this is the self, this is the tail, the support. On that, too, there is this verse:",
+      "metadata": {
+        "cluster": "identity_analysis",
+        "prakriyā": "kosha_examination",
+        "pedagogical_role": "introduce_annamaya_identity",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "analytic_contemplative",
+        "pedagogical_stage": "identity_inquiry"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 2,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

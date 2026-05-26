@@ -1,0 +1,221 @@
+.
+├── .DS_Store
+├── AIM_directory_map.txt
+├── archive
+│   ├── .DS_Store
+│   ├── AIM Brand Specification v1.md
+│   └── artwork
+│       ├── AIṀ Logo (color).png
+│       ├── AIṀ Logo (dark mode).png
+│       ├── AIṀ Logo (light mode).png
+│       └── AIṀ.png
+├── corpus
+│   ├── .DS_Store
+│   ├── commentaries
+│   ├── prakaranas
+│   │   ├── .DS_Store
+│   │   ├── atmabodha
+│   │   │   ├── .DS_Store
+│   │   │   ├── atmabodha 1-10 v1.md
+│   │   │   ├── atmabodha 11-20 v1.md
+│   │   │   ├── atmabodha 21-30 v1.md
+│   │   │   ├── atmabodha 31-40 v1.md
+│   │   │   ├── atmabodha 41-50 v1.md
+│   │   │   ├── atmabodha 51-67 v1.md
+│   │   │   └── atmabodha master header v1.1.md
+│   │   └── upadesa-sahasri
+│   │       ├── .DS_Store
+│   │       ├── metadata
+│   │       │   └── Upadesa_Sahasri_Prakriya_Distribution_Map.md
+│   │       ├── upadesa_sahasri_metrical_ch01.md
+│   │       ├── upadesa_sahasri_metrical_ch02.md
+│   │       ├── upadesa_sahasri_metrical_ch03.md
+│   │       ├── upadesa_sahasri_metrical_ch04.md
+│   │       ├── upadesa_sahasri_metrical_ch05.md
+│   │       ├── upadesa_sahasri_metrical_ch06.md
+│   │       ├── upadesa_sahasri_metrical_ch07.md
+│   │       ├── upadesa_sahasri_metrical_ch08.md
+│   │       ├── upadesa_sahasri_metrical_ch09.md
+│   │       ├── upadesa_sahasri_metrical_ch10.md
+│   │       ├── upadesa_sahasri_metrical_ch11.md
+│   │       ├── upadesa_sahasri_metrical_ch12.md
+│   │       ├── upadesa_sahasri_metrical_ch13.md
+│   │       ├── upadesa-sahasri_prose_ch1.md
+│   │       ├── upadesa-sahasri_prose_ch2.md
+│   │       └── upadesa-sahasri_prose_ch3.md
+│   ├── smriti
+│   │   ├── .DS_Store
+│   │   └── bhagavad-gita
+│   │       ├── .DS_Store
+│   │       ├── bhagavad-gītā_chapter_2.md
+│   │       ├── bhagavad-gītā_chapter_3.md
+│   │       ├── bhagavad-gītā_chapter_4.md
+│   │       ├── bhagavad-gītā_chapter_5.md
+│   │       ├── bhagavad-gītā_chapter_6.md
+│   │       └── metadata
+│   └── upanishads
+│       ├── .DS_Store
+│       ├── aitareya
+│       │   ├── .DS_Store
+│       │   ├── aitareya_chapter_1.md
+│       │   ├── aitareya_chapter_2.md
+│       │   ├── aitareya_chapter_3.md
+│       │   └── metadata
+│       │       └── aitareya_stage_index.md
+│       ├── chandogya
+│       │   ├── .DS_Store
+│       │   ├── chandogya_chapter_6.md
+│       │   └── metadata
+│       ├── isha
+│       │   ├── .DS_Store
+│       │   ├── isha v1.md
+│       │   └── metadata
+│       ├── katha
+│       │   ├── .DS_Store
+│       │   ├── katha_1_1 v1.md
+│       │   ├── katha_1_2 v1.md
+│       │   ├── katha_1_3 v1.md
+│       │   ├── katha_2_1 v1.md
+│       │   ├── katha_2_2 v1.md
+│       │   ├── katha_2_3 v1.md
+│       │   └── metadata
+│       ├── mandukya
+│       │   ├── .DS_Store
+│       │   ├── mandukya v1.md
+│       │   └── metadata
+│       ├── mundaka
+│       │   ├── .DS_Store
+│       │   ├── metadata
+│       │   ├── mundaka 1.1 v1.md
+│       │   ├── mundaka 1.2 v1.md
+│       │   ├── mundaka 2.1 v1.md
+│       │   ├── mundaka 2.2 v1.md
+│       │   ├── mundaka 3.1 v1.md
+│       │   └── mundaka 3.2 v1.md
+│       └── taittiriya
+│           ├── .DS_Store
+│           ├── anandavalli
+│           │   ├── tattitiriya_anandavalli_1.md
+│           │   ├── tattitiriya_anandavalli_2.md
+│           │   ├── tattitiriya_anandavalli_3.md
+│           │   ├── tattitiriya_anandavalli_4.md
+│           │   ├── tattitiriya_anandavalli_5.md
+│           │   ├── tattitiriya_anandavalli_6.md
+│           │   ├── tattitiriya_anandavalli_7.md
+│           │   ├── tattitiriya_anandavalli_8.md
+│           │   └── tattitiriya_anandavalli_9.md
+│           ├── bhrguvalli
+│           │   ├── tattitiriya_bhrguvalli_1.md
+│           │   ├── tattitiriya_bhrguvalli_10.md
+│           │   ├── tattitiriya_bhrguvalli_2.md
+│           │   ├── tattitiriya_bhrguvalli_3.md
+│           │   ├── tattitiriya_bhrguvalli_4.md
+│           │   ├── tattitiriya_bhrguvalli_5.md
+│           │   ├── tattitiriya_bhrguvalli_6.md
+│           │   ├── tattitiriya_bhrguvalli_7.md
+│           │   ├── tattitiriya_bhrguvalli_8.md
+│           │   └── tattitiriya_bhrguvalli_9.md
+│           ├── metadata
+│           │   ├── .DS_Store
+│           │   └── taittiriya_stage_index.md
+│           └── siksavalli
+│               ├── tattitiriya_siksavalli_1.md
+│               ├── tattitiriya_siksavalli_10.md
+│               ├── tattitiriya_siksavalli_11.md
+│               ├── tattitiriya_siksavalli_12.md
+│               ├── tattitiriya_siksavalli_2.md
+│               ├── tattitiriya_siksavalli_3.md
+│               ├── tattitiriya_siksavalli_4.md
+│               ├── tattitiriya_siksavalli_5.md
+│               ├── tattitiriya_siksavalli_6.md
+│               ├── tattitiriya_siksavalli_7.md
+│               ├── tattitiriya_siksavalli_8.md
+│               └── tattitiriya_siksavalli_9.md
+├── pedagogy
+│   ├── .DS_Store
+│   ├── advaita_framework
+│   │   ├── .DS_Store
+│   │   ├── advaita_pedagogical_loop_algorithm.md
+│   │   ├── advaita_pedagogical_moves.md
+│   │   ├── cross_upanishad_pedagogy.md
+│   │   ├── dialogue_protocol.md
+│   │   ├── error_models
+│   │   ├── prakriya_library.md
+│   │   ├── prakriya_taxonomy.md
+│   │   ├── recognition_models
+│   │   ├── student_state_model.md
+│   │   └── universal_advaita_teaching_progression.md
+│   ├── corpus_index
+│   │   ├── .DS_Store
+│   │   ├── concept_indexes
+│   │   │   └── advaita_minimal_curriculum.md
+│   │   ├── maps
+│   │   │   ├── advaita_corpus_teaching_map.md
+│   │   │   ├── advaita_pedagogy_coverage_map.md
+│   │   │   └── aim_cross_upanishad_pedagogical_integration_map.md
+│   │   └── prakriya_indexes
+│   ├── text_maps
+│   │   ├── .DS_Store
+│   │   ├── aitareya
+│   │   │   └── aitareya_pedagogical_map.md
+│   │   ├── chandogya
+│   │   │   ├── chandogya_6_pedagogical_map.md
+│   │   │   ├── chandogya_6_teaching_algorithm.md
+│   │   │   └── chandogya_6_teaching_loop.md
+│   │   ├── katha
+│   │   │   ├── katha_teaching_graph.md
+│   │   │   └── katha_teaching_loop.md
+│   │   └── taittiriya
+│   │       ├── taittiriya_pedagogical_map.md
+│   │       └── taittiriya_teaching_diagram.md
+│   └── upanishadic_teaching_template.md
+├── PROJECT_OVERVIEW.md
+├── py
+│   ├── corpus_summary.py
+│   ├── count_files.py
+│   ├── index_corpus.py
+│   ├── prakriya_index.py
+│   ├── search_corpus.py
+│   └── verse_index.py
+├── README.md
+├── system
+│   ├── .DS_Store
+│   ├── architecture
+│   │   ├── .DS_Store
+│   │   ├── core
+│   │   │   ├── advaita_pedagogy_specification.md
+│   │   │   ├── agent_spec_addendum.md
+│   │   │   ├── AIM Specification v3.2.md
+│   │   │   └── AIM_operator_registry.md
+│   │   ├── diagrams
+│   │   │   ├── advaita_pedagogical_map.md
+│   │   │   ├── system_architecture.md
+│   │   │   └── system_diagram.md
+│   │   └── engines
+│   │       ├── .DS_Store
+│   │       └── prakriya_selection_engine.md
+│   ├── dialogue_protocols
+│   ├── ingestion
+│   │   └── AIM Ingestion System Prompt v1.5.md
+│   ├── schemas
+│   │   ├── .DS_Store
+│   │   ├── AIM Corpus Ontology Schema v1.1.md
+│   │   ├── AIM Tag Taxonomy & Student State Model v1.1.md
+│   │   ├── AIM Terminological Integrity Addendum.md
+│   │   ├── AIM_Objection_Ontology_v1.0.yaml
+│   │   ├── AIM_Pedagogical_Stages.md
+│   │   └── text_tags_schema_v1.yaml
+│   └── state_machine
+│       ├── cognitive_error_machine.md
+│       ├── initial_state_model_v2.md
+│       └── student_state_machine.md
+├── tools
+│   ├── .DS_Store
+│   └── ingestion_templates
+│       ├── katha_master_header_v1.md
+│       ├── mundaka_master_header_v1.md
+│       ├── taittiriya_master_header_v1.md
+│       └── Upaniṣad Text Template.md
+└── upanishad_index.txt
+
+55 directories, 164 files

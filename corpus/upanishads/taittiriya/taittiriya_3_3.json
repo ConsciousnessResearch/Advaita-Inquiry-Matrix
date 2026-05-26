@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "contemplative_inquiry",
+    "prakriyā": "contemplative_hypothesis",
+    "pedagogical_role": "provisional_pranamaya_realization",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative_inquiry",
+    "pedagogical_stage": "inquiry_cycle_refinement"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_3_3_1",
+      "sanskrit": "प्राणो ब्रह्मेति व्यजानात् । प्राणाद्ध्येव खल्विमानि भूतानि जायन्ते । प्राणेन जातानि जीवन्ति । प्राणं प्रयन्त्यभिसंविशन्तीति । तद्विज्ञाय । पुनरेव वरुणं पितरमुपससार । अधीहि भगवो ब्रह्मेति । तꣳहोवाच । तपसा ब्रह्म विजिज्ञासस्व । तपो ब्रह्मेति । स तपोऽतप्यत । स तपस्तप्त्वा ॥ १॥ इति तृतीयोऽनुवाकः ॥",
+      "transliteration": "prāṇo brahmeti vyajānāt | prāṇāddhyeva khalvimāni bhūtāni jāyante | prāṇena jātāni jīvanti | prāṇaṃ prayantyabhisaṃviśantīti | tadvijñāya | punareva varuṇaṃ pitaramupasasāra | adhīhi bhagavo brahmeti | taṃhovāca | tapasā brahma vijijñāsasva | tapo brahmeti | sa tapo'tapyata | sa tapastaptvā || 1 || iti tṛtīyo'nuvākaḥ ||",
+      "translation": "Bhrgu understood that Prana is Brahman; because it is from Prana alone that all these living beings are born; having been born from it, they live by it and (in the end) on departing they go towards Prana and become one with it. Having known that he approached his father again saying: 'Revered Sir, instruct me about Brahman.' Varuna told him: 'Desire to know Brahman by Tapas. Tapas is Brahman.' He performed Tapas and having performed Tapas...",
+      "metadata": {
+        "cluster": "contemplative_inquiry",
+        "prakriyā": "contemplative_hypothesis",
+        "pedagogical_role": "provisional_pranamaya_realization",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative_inquiry",
+        "pedagogical_stage": "inquiry_cycle_refinement"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

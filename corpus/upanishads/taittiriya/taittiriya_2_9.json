@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "brahman_definition",
+    "prakriyā": "realization_statement",
+    "pedagogical_role": "describe_realized_state",
+    "adhikāra_level": "uttama",
+    "cognitive_mode": "contemplative",
+    "pedagogical_stage": "realization_threshold"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_2_9_1",
+      "sanskrit": "यतो वाचो निवर्तन्ते । अप्राप्य मनसा सह । आनन्दं ब्रह्मणो विद्वान् । न बिभेति कुतश्चनेति । एतꣳह वाव न तपति । किमहꣳसाधु नाकरवम् । किमहं पापमकरवमिति । स य एवं विद्वानेते आत्मान स्पृणुते । उभे ह्येवैष एते आत्मान स्पृणुते । य एवं वेद । इत्युपनिषत् ॥ १॥ इति नवमोऽनुवाकः ॥ ॥ इति ब्रह्मानन्दवल्ली समाप्ता ॥",
+      "transliteration": "yato vāco nivartante | aprāpya manasā saha | ānandaṃ brahmaṇo vidvān | na bibheti kutaścaneti | etaṃha vāva na tapati | kimahaṃsādhu nākaravam | kimahaṃ pāpamakaravamiti | sa ya evaṃ vidvānete ātmāna spṛṇute | ubhe hyevaiṣa ete ātmāna spṛṇute | ya evaṃ veda | ityupaniṣat || 1 || iti navamo'nuvākaḥ | || iti brahmānandavallī samāptā |",
+      "translation": "He who knows the Bliss of Brahman from which all words return without reaching, It, together with the mind, is no more afraid of anything.  Such thoughts 'Why have I not done what is good? Why have I committed a sin,' do not certainly come to distress a man of experience of the Truth. He who knows thus, regards both these as the Atman. Verily, both these are regarded by him who knows thus as only Atman. This is the Upanisad.   Here ends the Brahmananda chapter.",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "realization_statement",
+        "pedagogical_role": "describe_realized_state",
+        "adhikāra_level": "uttama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_threshold"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

@@ -1,0 +1,51 @@
+aitareya/aitareya_chapter_1.md
+aitareya/aitareya_chapter_2.md
+aitareya/aitareya_chapter_3.md
+aitareya/metadata/aitareya_stage_index.md
+chandogya/chandogya_chapter_6.md
+isha/isha v1.md
+katha/katha_1_1 v1.md
+katha/katha_1_2 v1.md
+katha/katha_1_3 v1.md
+katha/katha_2_1 v1.md
+katha/katha_2_2 v1.md
+katha/katha_2_3 v1.md
+mandukya/mandukya v1.md
+mundaka/mundaka 1.1 v1.md
+mundaka/mundaka 1.2 v1.md
+mundaka/mundaka 2.1 v1.md
+mundaka/mundaka 2.2 v1.md
+mundaka/mundaka 3.1 v1.md
+mundaka/mundaka 3.2 v1.md
+taittiriya/anandavalli/tattitiriya_anandavalli_1.md
+taittiriya/anandavalli/tattitiriya_anandavalli_2.md
+taittiriya/anandavalli/tattitiriya_anandavalli_3.md
+taittiriya/anandavalli/tattitiriya_anandavalli_4.md
+taittiriya/anandavalli/tattitiriya_anandavalli_5.md
+taittiriya/anandavalli/tattitiriya_anandavalli_6.md
+taittiriya/anandavalli/tattitiriya_anandavalli_7.md
+taittiriya/anandavalli/tattitiriya_anandavalli_8.md
+taittiriya/anandavalli/tattitiriya_anandavalli_9.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_1.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_10.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_2.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_3.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_4.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_5.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_6.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_7.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_8.md
+taittiriya/bhrguvalli/tattitiriya_bhrguvalli_9.md
+taittiriya/metadata/taittiriya_stage_index.md
+taittiriya/siksavalli/tattitiriya_siksavalli_1.md
+taittiriya/siksavalli/tattitiriya_siksavalli_10.md
+taittiriya/siksavalli/tattitiriya_siksavalli_11.md
+taittiriya/siksavalli/tattitiriya_siksavalli_12.md
+taittiriya/siksavalli/tattitiriya_siksavalli_2.md
+taittiriya/siksavalli/tattitiriya_siksavalli_3.md
+taittiriya/siksavalli/tattitiriya_siksavalli_4.md
+taittiriya/siksavalli/tattitiriya_siksavalli_5.md
+taittiriya/siksavalli/tattitiriya_siksavalli_6.md
+taittiriya/siksavalli/tattitiriya_siksavalli_7.md
+taittiriya/siksavalli/tattitiriya_siksavalli_8.md
+taittiriya/siksavalli/tattitiriya_siksavalli_9.md

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "ethical_foundation",
+    "prakriyā": "integrated_discipline_of_study_and_conduct",
+    "pedagogical_role": "ethical_training_of_the_student",
+    "adhikāra_level": "sarva",
+    "cognitive_mode": "ethical_contemplative",
+    "pedagogical_stage": "ethical_stabilization"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_9_1",
+      "sanskrit": "ऋतं च स्वाध्यायप्रवचने च । सत्यं च स्वाध्यायप्रवचने च । तपश्च स्वाध्यायप्रवचने च । दमश्च स्वाध्यायप्रवचने च । शमश्च स्वाध्यायप्रवचने च । अग्नयश्च स्वाध्यायप्रवचने च । अग्निहोत्रं च स्वाध्यायप्रवचने च । अतिथयश्च स्वाध्यायप्रवचने च । मानुषं च स्वाध्यायप्रवचने च । प्रजा च स्वाध्यायप्रवचने च । प्रजनश्च स्वाध्यायप्रवचने च । प्रजातिश्च स्वाध्यायप्रवचने च । सत्यमिति सत्यवचा राथी तरः । तप इति तपोनित्यः पौरुशिष्टिः । स्वाध्यायप्रवचने एवेति नाको मौद्गल्यः । तद्धि तपस्तद्धि तपः ॥ १ ॥ इति नवमोऽनुवाकः ॥",
+      "transliteration": "ṛtaṃ ca svādhyāyapravacane ca | satyaṃ ca svādhyāyapravacane ca | tapaśca svādhyāyapravacane ca | damaśca svādhyāyapravacane ca | śamaśca svādhyāyapravacane ca | agnayaśca svādhyāyapravacane ca | agnihotraṃ ca svādhyāyapravacane ca | atithayaśca svādhyāyapravacane ca | mānuṣaṃ ca svādhyāyapravacane ca | prajā ca svādhyāyapravacane ca | prajanaśca svādhyāyapravacane ca | prajātiśca svādhyāyapravacane ca | satyamiti satyavacā rathītaraḥ | tapa iti taponityaḥ pauruśiṣṭiḥ | svādhyāyapravacane eveti nāko maudgalyaḥ | taddhi tapastaddhi tapaḥ || 1 || iti navamo'nuvākaḥ ||",
+      "translation": "The practice of what is right and proper as fixed by the scriptural texts is to be done along with the reading the texts oneself and propagating the truths of the same. 'Truth', meaning practising in life of what is understood to be right and proper, is to be pursued along with regular studies and preaching. Penance, study and preaching; Control of the senses, study and preaching; tranquility study and preaching the 'maintenance of fire', study and preaching, offering of oblations in fire sacrifice, study and preaching of the Vedas; serving the guests, study and preaching; the performance of duties towards man, study and preaching; duties towards children, study and preaching; propagation of the race, study, and preaching - all these are things to be practiced sincerely.  Satyavacha the son of Rathitara, holds that truth alone is to be strictly practised. Taponitya, son of Purushista declares that penance alone is to be practised. Naaka, son of Mudgala holds the view that the study and preaching of the Vedas alone is to be practised; that verily is penance; aye, that is penance.",
+      "metadata": {
+        "cluster": "ethical_foundation",
+        "prakriyā": "integrated_discipline_of_study_and_conduct",
+        "pedagogical_role": "ethical_training_of_the_student",
+        "adhikāra_level": "sarva",
+        "cognitive_mode": "ethical_contemplative",
+        "pedagogical_stage": "ethical_stabilization"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "text": "upadesha_sahasri_metrical"
+  },
+  "units": [
+    {
+      "id": "UPADESHA_METRICAL_2_1",
+      "chapter": 2,
+      "verse": 1,
+      "sanskrit": "प्रनतषेद्धुमशक्यत्र्ान्नेनतनेतीनत शेवषतम ् । इदं नाहममदं नाहममत्यद्धा प्रनतपद्यते ॥१॥",
+      "transliteration": "",
+      "translation": "Impossible to be negated the Self is left over on the authority of the Sruti, ‘Not this, not this.’ So, the Self becomes clearly known on the reflection, ‘I am not this, I am not this.’",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "UPADESHA_METRICAL_2_2",
+      "chapter": 2,
+      "verse": 2,
+      "sanskrit": "अहंधीरिदमात्मोत्था र्ाचािम्भिगोचिा । ननवषद्धात्मोद्भर्त्र्ात्सा न पुनमावनतां व्रजेत ् ॥२॥",
+      "transliteration": "",
+      "translation": "The consciousness of egoism (i.e., the mistaken identity of the Self with the body etc.) has its origin in the intellect and has for its object what is based on words only. As its very nature and origin are both negated (by the Sruti, ‘Not this, not this’), egoism can never again be regarded as founded on any evidence.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "UPADESHA_METRICAL_2_3",
+      "chapter": 2,
+      "verse": 3,
+      "sanskrit": "पर्वबुवद्धमबाचधत्र्ा नोत्तिा जायते मनतः । दृमशिेकः स्र्यं मसद्धः फलत्र्ात्स न बा्यते ॥३॥",
+      "transliteration": "",
+      "translation": "A following knowledge does not arise without negating the previous one (e.g., the knowledge of the rope does not come without destroying that of the snake in a rope-snake). Pure Consciousness, the Self, only has an independent existence and is never negated as It is the result of evidences.",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "UPADESHA_METRICAL_2_4",
+      "chapter": 2,
+      "verse": 4,
+      "sanskrit": "इदं र्नमनतिम्य शोकमोहादददूवषतम ् । र्नाद्गान्धािको यद्वत्स्र्ात्मानं प्रनतपद्यते ॥४॥",
+      "transliteration": "",
+      "translation": "One attains one’s own innermost Self by crossing the forest of this body infested with ferocious beasts of grief, delusion, etc., like the man of the country of Gandhara who crossed the forest and reached his own country.",
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 4,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

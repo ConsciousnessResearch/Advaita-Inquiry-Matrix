@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "meditative_recitation",
+    "prakriyā": "contemplative_self_affirmation",
+    "pedagogical_role": "realized_identity_declaration",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative",
+    "pedagogical_stage": "ethical_stabilization"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_10_1",
+      "sanskrit": "अहं वृक्षस्य रेरिवा । कीर्तिः पृष्ठं गिरेरिव । ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि । द्रविणꣳसवर्चसम् । सुमेध अमृतोक्षितः । इति त्रिशङ्कोर्वेदानुवचनम् ॥ १ ॥ इति दशमोऽनुवाकः ॥",
+      "transliteration": "ahaṃ vṛkṣasya rerivā | kīrtiḥ pṛṣṭhaṃ gireriva | ūrdhvapavitro vājinīva svamṛtamasmi | draviṇaṃsavarcasam | sumedha amṛtokṣitaḥ | iti triśaṅkorvedānuvacanam || 1 || iti daśamo'nuvākaḥ ||",
+      "translation": "I am the stimulator of the tree of the Universe. My fame (glory) is high as the peaks of the mountains. High and pure am I like the essence in the sun. I am the power and the wealth, effulgent with intuition. Intelligent, imperishable and undecaying am I. This is the sacred recitation of Trishanku, after he realised the Truth.",
+      "metadata": {
+        "cluster": "meditative_recitation",
+        "prakriyā": "contemplative_self_affirmation",
+        "pedagogical_role": "realized_identity_declaration",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "ethical_stabilization"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

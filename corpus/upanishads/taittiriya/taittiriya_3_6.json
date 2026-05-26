@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "contemplative_inquiry",
+    "prakriyā": "inquiry_resolution"
+    "pedagogical_role": "recognize_brahman_as_ananda"
+    "pedagogical_stage": "realization_threshold",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative_inquiry"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_3_6_1",
+      "sanskrit": "आनन्दो ब्रह्मेति व्यजानात् । आनन्दाध्येव खल्विमानि भूतानि जायन्ते । आनन्देन जातानि जीवन्ति । आनन्दं प्रयन्त्यभिसंविशन्तीति । सैषा भार्गवी वारुणी विद्या । परमे व्योमन्प्रतिष्ठिता । स य एवं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ १॥ इति षष्ठोऽनुवाकः ॥",
+      "transliteration": "ānando brahmeti vyajānāt | ānandādhyeva khalvimāni | bhūtāni jāyante | ānandena jātāni jīvanti | ānandaṃ prayantyabhisaṃviśantīti | saiṣā bhārgavī vāruṇī vidyā | parame vyomanpratiṣṭhitā | sa ya evaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā || 1 || iti ṣaṣṭho'nuvākaḥ ||",
+      "translation": "Bhrgu understood that Bliss is Brahman; because it is from Bliss that all these beings are produced and by bliss do these beings live. They go to bliss on departing and become one with it. Having known that he approached his father again saying: 'Revered Sir, instruct me about Brahman.' Varuna told him: 'Desire to know Brahman by Tapas. Tapas is Brahman.' He performed Tapas and having performed Tapas...",
+      "metadata": {
+        "cluster": "contemplative_inquiry",
+        "prakriyā": "contemplative_inquiry",
+        "pedagogical_role": "recognize_anandamaya_brahman",
+        "pedagogical_stage": "realization_threshold",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative_inquiry"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

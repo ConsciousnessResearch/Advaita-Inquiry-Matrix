@@ -1,0 +1,110 @@
+# AIM Objection Ontology v1.0
+# Location: schemas/objection_ontology.yaml
+
+schema_version: v1.0
+
+description: >
+  Formal ontology of common Advaita metaphysical errors (adhyāsa patterns)
+  used by the AIM Dharma‑Yuddha Debate Engine to classify student objections
+  and route them to appropriate corrective prakriyā.
+
+objection_ontology:
+
+  O1_body_self:
+    description: Self identified with the physical body
+    root_error: deha_adhyasa
+    typical_language:
+      - "I am suffering"
+      - "I am hungry"
+      - "I was born"
+      - "I will die"
+    corrective_prakriya:
+      - drg_drsya_viveka
+      - neti_neti
+      - avastha_traya_analysis
+
+  O2_mind_self:
+    description: Self identified with thoughts, emotions, or intellect
+    root_error: mano_adhyasa
+    typical_language:
+      - "I am sad"
+      - "I am confused"
+      - "My thoughts define me"
+      - "My mind is restless"
+    corrective_prakriya:
+      - witness_analysis
+      - drg_drsya_viveka
+      - avastha_traya_analysis
+
+  O3_doer_self:
+    description: Self believed to be the agent of action (kartā)
+    root_error: karta_adhyasa
+    typical_language:
+      - "I perform karma"
+      - "I must purify myself through action"
+      - "My actions will liberate me"
+    corrective_prakriya:
+      - karma_jnana_incompatibility
+      - adhyaropa_apavada
+      - renunciation_logic
+
+  O4_experience_brahman:
+    description: Brahman expected or interpreted as a special experience
+    root_error: brahman_objectification
+    typical_language:
+      - "I experienced Brahman"
+      - "I lost the experience"
+      - "I want to experience enlightenment again"
+    corrective_prakriya:
+      - phenomenological_analysis
+      - witness_establishment
+      - neti_neti
+
+  O5_dualistic_god:
+    description: Absolute difference asserted between jīva and Īśvara
+    root_error: bheda_drshti
+    typical_language:
+      - "God is separate from me"
+      - "I must reach God"
+      - "I worship God to attain liberation"
+    corrective_prakriya:
+      - mahavakya_analysis
+      - ontological_debate
+      - abheda_teaching
+
+  O6_ritual_liberation:
+    description: Liberation believed to arise from ritual or karma
+    root_error: karma_dependence
+    typical_language:
+      - "Ritual leads to liberation"
+      - "Vedic sacrifice grants moksha"
+      - "Religious duty alone liberates"
+    corrective_prakriya:
+      - karma_jnana_incompatibility
+      - mundaka_critique_of_ritual
+
+  O7_self_as_object:
+    description: Attempt to know the Self as an object of cognition
+    root_error: knower_objectification
+    typical_language:
+      - "How do I perceive the Self?"
+      - "How do I observe consciousness?"
+      - "Can the Self be studied scientifically?"
+    corrective_prakriya:
+      - knower_regress_argument
+      - self_nonobjectifiability
+      - witness_establishment
+
+integration:
+
+  used_by:
+    - prakriya_selection_engine
+    - dharma_yuddha_debate_engine
+
+  routing_logic: >
+    detected_objection → corrective_prakriya → scripture_cluster → dialogue_generation
+
+  philosophical_basis:
+    - adhyasa_theory
+    - upanishadic_negation
+    - shankara_dialectical_method

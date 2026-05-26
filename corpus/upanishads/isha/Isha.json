@@ -1,0 +1,495 @@
+{
+  "text_id": "isopanisad",
+  "unit_count": 21,
+  "units": [
+    {
+      "id": "Mantra 0",
+      "sanskrit": "ओं पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।\nपूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ।\nओं शन्ति शन्ति शन्ति ॥",
+      "transliteration": "oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate |\npūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate |\noṃ śanti śanti śanti || 0 ||",
+      "translation": "Om. That is Full, this is full; from that Fullness, this fullness emanates. Taking away this fullness from that Fullness, the Full still remains behind. Om. Peace, Peace, Peace.",
+      "metadata": {
+        "tags": [
+          "brahman",
+          "fullness",
+          "non-duality"
+        ],
+        "prakriyā": "paradox (non-diminishing causality)",
+        "pedagogical_role": "compressed-totality",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "logical-paradox",
+        "dependencies": [],
+        "note": "root-seed-of-entire-text"
+      }
+    },
+    {
+      "id": "Mantra 1",
+      "sanskrit": "ओं ईशावास्यमिदं सर्वं यत् किञ्च जगत्यां जगत् ।\nतेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम् ॥ १ ॥",
+      "transliteration": "oṃ īśāvāsyamidaṃ sarvaṃ yat kiñca jagatyāṃ jagat |\ntena tyaktena bhuñjīthā mā gṛdhaḥ kasya sviddhanam || 1 ||",
+      "translation": "All this whatsoever that moves in Prakṛti (does so because it) is indwelt by the Lord. Enjoy thou what He hath allotted to thee, and do not beg from any, (though he be a king), for wealth.",
+      "metadata": {
+        "tags": [
+          "ātman",
+          "brahman",
+          "renunciation",
+          "non-duality"
+        ],
+        "prakriyā": "superimposition-correction",
+        "pedagogical_role": "perceptual-reframing",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "ontological-application",
+        "dependencies": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "Mantra 2",
+      "sanskrit": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ।\nएवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥ २ ॥",
+      "transliteration": "kurvanneveha karmāṇi jijīviṣecchataṃ samāḥ |\nevaṃ tvayi nānyatheto'sti na karma lipyate nare || 2 ||",
+      "translation": "Performing works even here, let a man live his allotted hundred years; thus is it right for thee, not otherwise than this; karma will not bind that man.",
+      "metadata": {
+        "tags": [
+          "karma",
+          "action",
+          "integration"
+        ],
+        "prakriyā": "non-binding-action",
+        "pedagogical_role": "ontological-karma-integration",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "applied-non-duality",
+        "dependencies": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "id": "Mantra 3",
+      "sanskrit": "असुर्या नाम ते लोका अन्धेन तमसावृताः ।\nतांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ ३ ॥",
+      "transliteration": "asuryā nāma te lokā andhena tamasāvṛtāḥ |\ntāṃste pretyābhigacchanti ye ke cātmahano janāḥ || 3 ||",
+      "translation": "Those worlds called Asurya are covered with blinding darkness: dying to those worlds they go, who kill the Self.",
+      "metadata": {
+        "tags": [
+          "ignorance",
+          "self-destruction"
+        ],
+        "prakriyā": "negation",
+        "pedagogical_role": "existential-warning",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "mythic-symbolic",
+        "dependencies": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "Mantra 4",
+      "sanskrit": "अनेजद् एकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् ।\nतद्धावतोऽन्यानत्येति तिष्ठत् तस्मिन्न् अपो मातरिश्वा दधाति ॥ ४ ॥",
+      "transliteration": "anejad ekaṃ manaso javīyo nainaddevā āpnuvanpūrvamarṣat |\ntaddhāvato'nyānatyeti tiṣṭhat tasminn apo mātariśvā dadhāti || 4 ||",
+      "translation": "He is fearless, supreme, and swifter than the mind. The Devas even know Him not fully, but He knows them all, as He is the Eternal. He staying in one place surpasses them all, though they be running. In Him, the Mātariśvan offers up all karmas of all creatures.",
+      "metadata": {
+        "tags": [
+          "ātman",
+          "paradox",
+          "transcendence"
+        ],
+        "prakriyā": "paradox",
+        "pedagogical_role": "ontological-deepening",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "paradoxical-analytic",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "Mantra 5",
+      "sanskrit": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके ।\nतदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ ५ ॥",
+      "transliteration": "tadejati tannaijati taddūre tadvantike |\ntadantarasya sarvasya tadu sarvasyāsya bāhyataḥ || 5 ||",
+      "translation": "All tremble from fear of Him, but He is afraid of none (and since He is All-pervading) He is far off as well as near, He is without as well as within.",
+      "metadata": {
+        "tags": [
+          "immanence",
+          "transcendence"
+        ],
+        "prakriyā": "paradox-expansion",
+        "pedagogical_role": "ontological-deepening",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "Mantra 6",
+      "sanskrit": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति ।\nसर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥ ६ ॥",
+      "transliteration": "yastu sarvāṇi bhūtānyātmanyevānupaśyati |\nsarvabhūteṣu cātmānaṃ tato na vijugupsate || 6 ||",
+      "translation": "He who sees all beings in the Supreme Self (knowing that Brahman is the support of them all), and sees the Supreme Self in all beings (as the Ruler and Controller from within of them all) becomes fearless and is not anxious about saving his self.",
+      "metadata": {
+        "tags": [
+          "unity",
+          "vision"
+        ],
+        "prakriyā": "identity",
+        "pedagogical_role": "participatory-recognition",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "Mantra 7",
+      "sanskrit": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः ।\nतत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥ ७ ॥",
+      "transliteration": "yasminsarvāṇi bhūtānyātmaivābhūdvijānataḥ |\ntatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ || 7 ||",
+      "translation": "“That Supreme Self in whom all beings exist, has existed indeed within all beings (from eternity.)”—How can he who knows this have delusion or sorrow? For he realises the unity; (by which the Supreme is in all, and all in Him.)",
+      "metadata": {
+        "tags": [
+          "freedom",
+          "unity"
+        ],
+        "prakriyā": "identity",
+        "pedagogical_role": "doubt-collapse",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "phenomenological",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    },
+    {
+      "id": "Mantra 8",
+      "sanskrit": "स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ।\nकविर्मनीषी परिभूः स्वयम्भूर्याथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥ ८ ॥",
+      "transliteration": "*sa paryagācchukramakāyamavraṇamasnāviraṃ śuddhamapāpaviddham* |\n*kavirmanīṣī paribhūḥ svayambhūryāthātathyato'rthānvyadadhācchāśvatībhyaḥ samābhyaḥ* || 8 ||",
+      "translation": "He attains the Lord Who is free from grief, free from subtle body, free from smallness, free from dense body, the Purifier, not tainted by sin. He creates the objects (like mahat, etc.) really and truly, from eternity. He is wise and omniscient, the Ruler of all Intelligences, the Best of all and Self-dependent.",
+      "metadata": {
+        "tags": [
+          "brahman",
+          "transcendence"
+        ],
+        "prakriyā": "negation-through-description",
+        "pedagogical_role": "transcendental-clarification",
+        "adhikāra_level": "uttama",
+        "cognitive_mode": "apophatic",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "Mantra 9",
+      "sanskrit": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।\nततो भूय इव ते तमो य उविद्यायां रताः ॥ ९ ॥",
+      "transliteration": "andhaṃ tamaḥ praviśanti ye'vidyāmupāsate |\ntato bhūya iva te tamo ya vidyāyāṃ ratāḥ || 9 ||",
+      "translation": "They who follow after Avidyā (worship deities other than the Lord) enter into gloomy darkness; into, undoubtedly even greater darkness than that go they who are devoted to Vidyā only (and do not correct the wrong notions of others.)",
+      "metadata": {
+        "tags": [
+          "vidyā",
+          "avidyā"
+        ],
+        "prakriyā": "category-transcendence",
+        "pedagogical_role": "ontological-non-reduction-warning",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "dual-category-negation",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "Mantra 10",
+      "sanskrit": "अन्यदेवाहुर्विद्ययान्यदाहुरविद्यया ।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १० ॥",
+      "transliteration": "anyadevāhurvidyayānyadāhuravidyayā |\niti śuśruma dhīrāṇāṃ ye nastadvicacakṣire || 10 ||",
+      "translation": "One thing they say is verily obtained from vidyā, another thing they say from avidyā: thus have we heard from the wise who explained that to us.",
+      "metadata": {
+        "tags": [
+          "vidyā",
+          "avidyā"
+        ],
+        "prakriyā": "category-transcendence",
+        "pedagogical_role": "ontological-non-reduction-warning",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "dual-category-negation",
+        "dependencies": [
+          9
+        ]
+      }
+    },
+    {
+      "id": "Mantra 11",
+      "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयं सह ।\nअविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते ॥ ११ ॥",
+      "transliteration": "vidyāṃ cāvidyāṃ ca yastadvedobhayaṃ saha |\navidyayāmṛtyuṃ tīrtvā vidyayāmṛtamaśnute || 11 ||",
+      "translation": "Of these two, Vidyā and Avidyā, by a knowledge of Avidyā alone death is overcome; but knowing, both these together, by a knowledge of Vidyā also, he obtains liberation.",
+      "metadata": {
+        "tags": [
+          "integration",
+          "immortality",
+          "rasa"
+        ],
+        "prakriyā": "dual-mode-relationality",
+        "pedagogical_role": "relational-immortality",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "non-reductive-integration",
+        "dependencies": [
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "id": "Mantra 12",
+      "sanskrit": "अन्धं तमः प्रविशन्ति येऽसम्भूतिम् उपासते ।\nततो भूय इव ते तमो य उ सम्भूत्यां रताः ॥ १२ ॥",
+      "transliteration": "andhaṃ tamaḥ praviśanti ye'sambhūtim upāsate |\ntato bhūya iva te tamo ya u sambhūtyāṃ ratāḥ || 12 ||",
+      "translation": "They who worship That as Destroyer only enter into gloomy darkness, into surely even greater darkness than that go they who are devoted to Him as Creator alone.",
+      "metadata": {
+        "tags": [
+          "sambhūti",
+          "asambhūti"
+        ],
+        "prakriyā": "category-transcendence",
+        "pedagogical_role": "ontological-non-reduction-warning",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "dual-category-negation",
+        "dependencies": [
+          9,
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "id": "Mantra 13",
+      "sanskrit": "अन्यदेवाहुः संभवादन्यदाहुरसंभवात् ।\nइति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १३ ॥",
+      "transliteration": "anyadevāhuḥ saṃbhavādanyadāhurasaṃbhavāt |\niti śuśruma dhīrāṇāṃ ye nastadvicacakṣire || 13 ||",
+      "translation": "One thing they say is verily obtained from devotion to That as Creator: another thing they say from Him as Destroyer. Thus have we heard from the wise who explained it to us.",
+      "metadata": {
+        "tags": [
+          "sambhūti",
+          "asambhūti"
+        ],
+        "prakriyā": "category-transcendence",
+        "pedagogical_role": "ontological-non-reduction-warning",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "dual-category-negation",
+        "dependencies": [
+          12
+        ]
+      }
+    },
+    {
+      "id": "Mantra 14",
+      "sanskrit": "संभूतिं च विनाशं च यस्तद्वेदोभयं सह ।\nविनाशेन मृत्युं तीर्त्वा संभूत्यामृतमश्नुते ॥ १४ ॥",
+      "transliteration": "saṃbhūtiṃ ca vināśaṃ ca yastadvedobhayaṃ saha |\nvināśena mṛtyuṃ tīrtvā saṃbhūtyāmṛtamaśnute || 14 ||",
+      "translation": "Of these two, the Creator and the Destroyer, by (a knowledge of) the Destroyer alone, death is overcome; but knowing both, these together by (a knowledge of) the Creator also, he obtains liberation.",
+      "metadata": {
+        "tags": [
+          "integration",
+          "immortality",
+          "rasa"
+        ],
+        "prakriyā": "dual-mode-relationality",
+        "pedagogical_role": "relational-immortality",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "non-reductive-integration",
+        "dependencies": [
+          12,
+          13
+        ]
+      }
+    },
+    {
+      "id": "Mantra 15",
+      "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।\nतत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥ १५ ॥",
+      "transliteration": "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham |\ntattvaṃ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye || 15 ||",
+      "translation": "The entrance to the True is covered by a shining disk, that (disk) do thou, O Pūṣan, remove, for me who is devoted to the True, that I may see Thee.",
+      "metadata": {
+        "tags": [
+          "truth",
+          "unveiling"
+        ],
+        "prakriyā": "de-objectification",
+        "pedagogical_role": "veil-removal",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "existential-and-phenomenological",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "id": "Mantra 16a",
+      "sanskrit": "पूषन्नेकर्षे यम सूर्यप्राजापत्यव्यूह रश्मीन्समूह |\nतेजः यत्ते रूपं कल्याणतमं तत्ते पश्यामि ||",
+      "transliteration": "pūṣannekarṣe yama sūryaprājāpatyavyūha raśmīnsamūha |\ntejaḥ yatte rūpaṃ kalyāṇatamaṃ tatte paśyāmi || 16a ||",
+      "translation": "O All-full! O Sole-wise! O All-Judge! O Goal of the Wise! O the Lord of Prajāpati! expand my knowledge of the self, and increase my knowledge of the non-self, so that through Thy grace, I may see that form of Thine which is the most auspicious.",
+      "metadata": {
+        "tags": [
+          "advaita",
+          "bhakti"
+        ],
+        "prakriyā": "identity-recognition",
+        "pedagogical_role": "ontological-consummation",
+        "adhikāra_level": "uttama",
+        "cognitive_mode": "existential-and-phenomenological",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "id": "Mantra 16b",
+      "sanskrit": "योऽसावसौ पुरुषः सोऽहमस्मि ॥ १६ ॥",
+      "transliteration": "yo'sāvasau puruṣaḥ so'hamasmi || 16 ||",
+      "translation": "That yonder person who dwells in Asu (Life) is known by the name of Aham “I” (*i.e*., the Supreme) and Asmi “I am” (*i.e*., the only standard of existence.)",
+      "metadata": {
+        "tags": [
+          "identity",
+          "linguistic-limit"
+        ],
+        "prakriyā": "linguistic-collapse",
+        "pedagogical_role": "final-indicative-gesture",
+        "adhikāra_level": "uttama",
+        "cognitive_mode": "apophatic-pointer",
+        "dependencies": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "id": "Mantra 17a",
+      "sanskrit": "वायुरनिलममृतमथेदं भस्मान्तं शरीरम् |",
+      "transliteration": "*vāyuranilamamṛtamathedaṃ bhasmāntaṃ śarīram* |",
+      "translation": "Though this body be reduced to ashes, the Indwelling Spirit, the Lord does not die, He is immortal: nor does the jīva die. For the Vāyu has become immortal, because Brahman dwells in him.",
+      "metadata": {
+        "tags": [
+          "death",
+          "disidentification"
+        ],
+        "prakriyā": "body-negation",
+        "pedagogical_role": "existential-release",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "dual-register (literal + contemplative)",
+        "dependencies": [
+          16
+        ]
+      }
+    },
+    {
+      "id": "Mantra 17b",
+      "sanskrit": "ओं क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर ॥ १७ ॥",
+      "transliteration": "oṃ krato smara kṛtaṃ smara krato smara kṛtaṃ smara || 17 ||",
+      "translation": "O All-pervading Creator! remember me. Have mercy on me. O Soul remember thy duty.",
+      "metadata": {
+        "tags": [
+          "death",
+          "disidentification"
+        ],
+        "prakriyā": "body-negation",
+        "pedagogical_role": "existential-release",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "dual-register (literal + contemplative)",
+        "dependencies": [
+          16
+        ]
+      }
+    },
+    {
+      "id": "Mantra 18",
+      "sanskrit": "अग्ने नय सुपथा राये अस्मान्विश्वानि देव वयुनानि विद्वान् ।\nयुयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ॥ १८ ॥",
+      "transliteration": "agne naya supathā rāye asmānviśvāni deva vayunāni vidvān |\nyuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te nama uktiṃ vidhema || 18 ||",
+      "translation": "O Agni! lead us by that Path (from which there is no going back), the good Path, in order that we may get the treasure of Salvation. O God! thou knowest all our efforts for salvation. Remove from us the degrading sin. We offer Thee salutations over and over again.",
+      "metadata": {
+        "tags": [
+          "guidance",
+          "karma"
+        ],
+        "prakriyā": "surrender-of-residual-karma",
+        "pedagogical_role": "relational-continuity",
+        "adhikāra_level": "universal",
+        "cognitive_mode": "dual-register (literal + contemplative)",
+        "dependencies": [
+          "entire text"
+        ]
+      }
+    }
+  ]
+}

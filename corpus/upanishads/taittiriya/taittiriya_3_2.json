@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "contemplative_inquiry",
+    "prakriyā": "contemplative_hypothesis",
+    "pedagogical_role": "provisional_annamaya_realization",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative_inquiry",
+    "pedagogical_stage": "inquiry_cycle_refinement"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_3_2_1",
+      "sanskrit": "अन्नं ब्रह्मेति व्यजानात् । अन्नाद्ध्येव खल्विमानि भुतानि जायन्ते । अन्नेन जातानि जीवन्ति । अन्नं प्रयन्त्यभिसंविशन्तीति । तद्विज्ञाय । पुनरेव वरुणं पितरमुपससार । अधीहि भगवो ब्रह्मेति । तꣳहोवाच । तपसा ब्रह्म विजिज्ञासस्व । तपो ब्रह्मेति । स तपोऽतप्यत । स तपस्तप्त्वा ॥ १ ॥ इति द्वितीयोऽनुवाकः ॥",
+      "transliteration": "annaṃ brahmeti vyajānāt | annāddhyeva khalvimāni | bhutāni jāyante | annena jātāni jīvanti | annaṃ prayantyabhisaṃviśantīti | tadvijñāya | punareva varuṇaṃ pitaramupasasāra | adhīhi bhagavo brahmeti | taṃhovāca | tapasā brahma vijijñāsasva | tapo brahmeti | sa tapo'tapyata | sa tapastaptvā || 1 || iti dvitīyo'nuvākaḥ ||",
+      "translation": "Bhrgu learnt that Food is Brahman because it is from food that all these beings are born; by food when born, do they live, and having departed, into food they enter. Having known that, he approached his father Varuna and said: 'Revered Sir, teach me Brahman.' Varuna told him: 'By deep thinking (Tapas) seek thou to know Brahman. Tapas is Brahma. He performed Tapas and having performed Tapas...",
+      "metadata": {
+        "cluster": "contemplative_inquiry",
+        "prakriyā": "contemplative_hypothesis",
+        "pedagogical_role": "provisional_annamaya_realization",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative_inquiry",
+        "pedagogical_stage": "inquiry_cycle_refinement"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "cluster": "meditative_recitation",
+    "prakriyā": "heart_space_contemplation",
+    "pedagogical_role": "interiorization_of_meditation",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative",
+    "pedagogical_stage": "symbolic_training"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_6_1",
+      "sanskrit": "स य एषोऽन्तहृदय आकाशः । तस्मिन्नयं पुरुषो मनोमयः । अमृतो हिरण्मयः । अन्तरेण तालुके । य एषस्तन इवावलम्बते । सेन्द्रयोनिः । यत्रासौ केशान्तो विवर्तते । व्यपोह्य शीर्षकपाले ॥ १ ॥",
+      "transliteration": "sa ya eṣo'ntahṛdaya ākāśaḥ | tasminnayaṃ puruṣo manomayaḥ | amṛto hiraṇmayaḥ | antareṇa tāluke | ya eṣastana ivāvalambate | sendrayoniḥ | yatrāsau keśānto vivartate | vyapohya śīrṣakapāle || 1 ||",
+      "translation": "Here in this space within the heart resides the intelligent, imperishable, effulgent Purusha or Entity. Between the palates, that which hangs nipple like (the uvula) - that is the birthplace of Indra, where the root of hair is made to part, opening the skull in the centre.",
+      "metadata": {
+        "cluster": "meditative_recitation",
+        "prakriyā": "heart_space_contemplation",
+        "pedagogical_role": "interiorization_of_meditation",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "symbolic_training"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_1_6_2",
+      "sanskrit": "भूरित्यग्नौ प्रतितिष्ठति । भुव इति वायौ  । सुवरित्यादित्ये । मह इति ब्रह्मणि । आप्नोति स्वाराज्यम् । आप्नोति मनसस्पतिम् । वाक्पतिश्चक्षुष्पतिः । श्रोत्रपतिर्विज्ञानपतिः । एतत्ततो भवति । आकाशशरीरं ब्रह्म । सत्यात्म प्राणारामं मन आनन्दम् । शान्तिसमृद्धममृतम् । इति प्राचीन योग्योपास्व ॥ २॥ इति षष्ठोऽनुवाकः ॥",
+      "transliteration": "bhūrityagnau pratitiṣṭhati | bhuva iti vāyau | suvarityāditye | maha iti brahmaṇi | āpnoti svārājyam | āpnoti manasaspatim | vākpatiścakṣuṣpatiḥ | śrotrapatirvijñānapatiḥ | etattato bhavati | ākāśaśarīraṃ brahma | satyātma prāṇārāmaṃ mana ānandam | śāntisamṛddhamamṛtam | iti prācīna yogyopāsva || 2 || iti ṣaṣṭho'nuvākaḥ ||",
+      "translation": "With the word Bhuh, he stands in fire; in the air in the shape of Bhuvah; as Suvah in the sun; in Brahman as Mahah. He obtains self-effulgence. He obtains lordship over minds; he becomes the Lord of Speeech, Lord of the eyes, Lord of the ears, the Lord of the Knowledge. Then he becomes this Brahman, whose body is space, whose nature is truth, who sports in dynamic life, prana whose mind is bliss, who is full of peace, who is immortal. Thus, O Descendant of ancient Yoga-culture, meditate.",
+      "metadata": {
+        "cluster": "meditative_recitation",
+        "prakriyā": "contemplative_identification",
+        "pedagogical_role": "meditation_result_description",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "symbolic_training"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 2,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

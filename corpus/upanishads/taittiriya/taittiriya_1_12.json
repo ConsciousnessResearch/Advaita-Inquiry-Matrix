@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "guru_transmission",
+    "prakriyā": "closing_benediction_invocation",
+    "pedagogical_role": "completion_of_instruction_cycle",
+    "adhikāra_level": "sarva",
+    "cognitive_mode": "ritual_contemplative",
+    "pedagogical_stage": "pedagogical_closure"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_12_1",
+      "sanskrit": "शं नो मित्रः शं वरुणः । शं नो भवत्वर्यमा । शं न इन्द्रो बृहस्पतिः । शं नो विष्णुरुरुक्रमः । नमो ब्रह्मणे । नमस्ते वायो । त्वमेव प्रत्यक्षं ब्रह्मासि । त्वामेव प्रत्यक्षं ब्रह्मावादिषम् । ऋतमवादिषम् । सत्यमवादिषम् । तन्मामावीत् । तद्वक्तारमावीत् । आवीन्माम् । आवीद्वक्तारम् । ॐ शान्तिः शान्तिः शान्तिः ॥ १ ॥ इति द्वादशोऽनुवाकः ॥ ॥ इति शीक्षावल्ली समाप्ता ॥",
+      "transliteration": "śaṃ no mitraḥ śaṃ varuṇaḥ | śaṃ no bhavatvaryamā | śaṃ na indro bṛhaspatiḥ | śaṃ no viṣṇururukramaḥ | namo brahmaṇe | namaste vāyo | tvameva pratyakṣaṃ brahmāsi | tvāmeva pratyakṣaṃ brahmāvādiṣam | ṛtamavādiṣam | satyamavādiṣam | tanmāmāvīt | tadvaktāramāvīt | āvīnmām | āvīdvaktāram | oṃ śāntiḥ śāntiḥ śāntiḥ || 1 || iti dvādaśo'nuvākaḥ || || iti śīkṣāvallī samāptā ||",
+      "translation": "May Mitra (Sun) be good to us. May Varuna be good to us. May Aryama be good to us. May Indra and Brhaspati be good to us. May the all-pervading Vishnu be good to us. Prostrations (salutations) to the Brahman. Prostrations to thee O Vayu. Thou indeed, art the visible Brahman. Unto thee I have declared the 'Good'. That has protected me. That has protected the teacher.  Om Peace! Peace! Peace!",
+      "metadata": {
+        "cluster": "guru_transmission",
+        "prakriyā": "closing_benediction_invocation",
+        "pedagogical_role": "completion_of_instruction_cycle",
+        "adhikāra_level": "sarva",
+        "cognitive_mode": "ritual_contemplative",
+        "pedagogical_stage": "pedagogical_closure"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

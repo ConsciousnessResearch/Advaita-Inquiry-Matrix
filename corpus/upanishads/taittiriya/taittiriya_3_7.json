@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "realization_expression"
+    "prakriyā": "ethical_expression_of_realization",
+    "pedagogical_role": "honor_cosmic_nourishment",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "contemplative",
+    "pedagogical_stage": "realization_stabilization"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_3_7_1",
+      "sanskrit": "अन्नं न निन्द्यात् । तद्व्रतम् । प्राणो वा अन्नम् । शरीरमन्नादम् । प्राणे शरीरं प्रतिष्ठितम् । शरीरे प्राणः प्रतिष्ठितः । तदेतदन्नमन्ने प्रतिष्ठितम् । स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ १॥ इति सप्तमोऽनुवाकः ॥",
+      "transliteration": "annaṃ na nindyāt | tadvratam | prāṇo vā annam | śarīram annādam | prāṇe śarīraṃ pratiṣṭhitam | śarīre prāṇaḥ pratiṣṭhitaḥ | tadetadannamanne pratiṣṭhitam | sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā || 1 || iti saptamo'nuvākaḥ ||",
+      "translation": "Do not blashpheme food, that shall be your vow. Prana is food. Body is the eater of food. The body is fixed in Prana. The Prana is fixed in the body. Thus food is fixed in food. He who knows that food is fixed in food, becomes one with Brahman. He becomes possessed of food and he becomes the eater of food. He becomes great in progency, in cattle wealth and in the splendor of Brahmana-hood. He becomes great in fame.",
+      "metadata": {
+        "cluster": "brahman_definition",
+        "prakriyā": "ethical_expression_of_realization",
+        "pedagogical_role": "honor_cosmic_nourishment",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "contemplative",
+        "pedagogical_stage": "realization_stabilization"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

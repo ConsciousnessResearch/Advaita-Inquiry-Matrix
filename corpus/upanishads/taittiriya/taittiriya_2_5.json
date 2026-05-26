@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "cluster": "identity_analysis",
+    "prakriyā": "kosha_examination",
+    "pedagogical_role": "examine_vijnanamaya_identity",
+    "adhikāra_level": "madhyama",
+    "cognitive_mode": "analytic_contemplative",
+    "pedagogical_stage": "identity_inquiry"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_2_5_1",
+      "sanskrit": "विज्ञानं यज्ञं तनुते । कर्माणि तनुतेऽपि च । विज्ञानं देवाः सर्वे । ब्रह्म ज्येष्ठमुपासते । विज्ञानं ब्रह्म चेद्वेद । तस्माच्चेन्न प्रमाद्यति । शरीरे पाप्मनो हित्वा । सर्वान्कामान् समश्नुत इति । तस्यैष एव शारीर आत्मा । यः पूर्वस्य । तस्माद्वा एतस्माद्विज्ञानमयात् ।",
+      "transliteration": "vijñānaṃ yajñaṃ tanute | karmāṇi tanute'pi ca | vijñānaṃ devāḥ sarve | brahma jyeṣṭhamupāsate | vijñānaṃ brahma cedveda | tasmāccenna pramādyati | śarīre pāpmano hitvā | sarvānkāmān samaśnuta iti | tasyaiṣa eva śārīra ātmā | yaḥ pūrvasya | tasmādvā etasmādvijñānamayāt |",
+      "translation": "Thereof,—of the former,—this one is the self embodied. Intelligence accomplishes sacrifice, and deeds as well does it accomplish. Intelligence do all Gods worship as Brahman, the Eldest. If Intelligence as Brahman one knows, if from That he swerves not, in body sins forsaking, he all desires achieves.",
+      "metadata": {
+        "cluster": "identity_analysis",
+        "prakriyā": "kosha_examination",
+        "pedagogical_role": "examine_vijnanamaya_identity",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "analytic_contemplative",
+        "pedagogical_stage": "identity_inquiry"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "TAITTIRIYA_2_5_2",
+      "sanskrit": "अन्योऽन्तर आत्माऽऽनन्दमयः । तेनैष पूर्णः । स वा एष पुरुषविध एव । तस्य पुरुषविधताम् । अन्वयं पुरुषविधः । तस्य प्रियमेव शिरः । मोदो दक्षिणः पक्षः । प्रमोद उत्तरः पक्षः । आनन्द आत्मा । ब्रह्म पुच्छं प्रतिष्ठा । तदप्येष श्लोको भवति ॥ १॥ इति पञ्चमोऽनुवाकः ॥",
+      "transliteration": "anyo'ntara ātmā''nandamayaḥ | tenaiṣa pūrṇaḥ | sa vā eṣa puruṣavidha eva | tasya puruṣavidhatām | anvayaṃ puruṣavidhaḥ | tasya priyameva śiraḥ | modo dakṣiṇaḥ pakṣaḥ | pramoda uttaraḥ pakṣaḥ | ānanda ātmā | brahma pucchaṃ pratiṣṭhā | tadapyeṣa śloko bhavati || 1 || iti pañcamo'nuvākaḥ ||",
+      "translation": "Than that, verily,—than this one formed of Vijñāna,—there is another self within formed of bliss: by him this one is filled. He, verily, this one, is quite of man’s shape. After his human shape, this one is of man’s shape. Of him, love itself is the head, joy is the right wing, delight is the left wing, bliss is the self, Brahman is the tail, the support. On that, too, there is this verse:",
+      "metadata": {
+        "cluster": "identity_analysis",
+        "prakriyā": "kosha_examination",
+        "pedagogical_role": "introduce_anandamaya_identity",
+        "adhikāra_level": "madhyama",
+        "cognitive_mode": "analytic_contemplative",
+        "pedagogical_stage": "subtle_identity_recognition"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 2,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

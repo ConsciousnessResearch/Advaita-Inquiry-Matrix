@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "cluster": "meditative_recitation",
+    "prakriyā": "phonetic_discipline",
+    "pedagogical_role": "recitation_framework",
+    "adhikāra_level": "sarva",
+    "cognitive_mode": "ritual_contemplative",
+    "pedagogical_stage": "initiation",
+    "symbolic_reference": "vedic_phonetic_science"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_2_1",
+      "sanskrit": "शिक्षाशास्त्रार्थसङ्ग्रहः ॐ शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा बलम् । साम सन्तानः । इत्युक्तः शीक्षाध्यायः ॥ १॥ इति द्वितीयोऽनुवाकः ॥",
+      "transliteration": "śikṣāśāstrārthasaṅgrahaḥ oṃ śīkṣāṃ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ | ityuktaḥ śīkṣādhyāyaḥ || 1 || iti dvitīyo'nuvākaḥ ||",
+      "translation": "We shall speak of the science of pronunciation. (The things to be learnt are) the alphabet, accent, measure, emphasis, uniformity, juxtaposition. Thus has been spoken the chapter on pronunciation.",
+      "metadata": {
+        "cluster": "meditative_recitation",
+        "prakriyā": "phonetic_discipline",
+        "pedagogical_role": "recitation_framework",
+        "adhikāra_level": "sarva",
+        "cognitive_mode": "ritual_contemplative",
+        "pedagogical_stage": "initiation",
+        "symbolic_reference": "vedic_phonetic_science"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

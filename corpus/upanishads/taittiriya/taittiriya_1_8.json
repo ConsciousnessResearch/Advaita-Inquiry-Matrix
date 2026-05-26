@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "cluster": "meditative_recitation",
+    "prakriyā": "omkara_contemplation",
+    "pedagogical_role": "sacred_sound_identification",
+    "adhikāra_level": "sarva",
+    "cognitive_mode": "ritual_contemplative",
+    "pedagogical_stage": "mantric_unification"
+  },
+  "units": [
+    {
+      "id": "TAITTIRIYA_1_8_1",
+      "sanskrit": "ओमिति ब्रह्म । ओमितीदꣳसर्वम् । ओमित्येतदनुकृतिर्हस्म वा अप्योश्रावयेत्याश्रावयन्ति । ओमिति सामानि गायन्ति । ॐꣳशोमिति शस्त्राणि शꣳसन्ति । ओमित्यध्वर्युः प्रतिगरं प्रतिगृणाति । ओमिति ब्रह्मा प्रसौति । ओमित्यग्निहोत्रमनुजानाति । ओमिति ब्राह्मणः प्रवक्ष्यन्नाह ब्रह्मोपाप्नवानीति । ब्रह्मैवोपाप्नोति ॥ १ ॥ इत्यष्टमोऽनुवाकः ॥",
+      "transliteration": "omiti brahma | om iti idaṃ sarvam | omityetadanukṛtirhasma vā apyośrāvayetyāśrāvayanti | omiti sāmāni gāyanti | oṃ śaṃ iti śastrāṇi śaṃsanti | omityadhvaryuḥ pratigaraṃ pratigṛṇāti | omiti brahmā prasauti | omityagnihotramanujānāti | omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti | brahmaivopāpnoti || 1 || ityaṣṭamo'nuvākaḥ ||",
+      "translation": "The sacred 'Om' sound is Brahman. All this is the syllable 'Om'.  'Om' - This verily is compliance and with the chanting of Om they start their singing of the Sama verses; and with 'Om Som' they recite the Shastras. The Adhvaryu answers with syllable 'Om'. With 'Om' the chief priest Brahma expresses his assent. One permits the offering of oblation to the fire with 'Om'. May I obtain the Brahman—with this determination the brahmana says 'Om' before he begins to recite the Veda; and he does obtain the Brahman.",
+      "metadata": {
+        "cluster": "meditative_recitation",
+        "prakriyā": "omkara_contemplation",
+        "pedagogical_role": "sacred_sound_identification",
+        "adhikāra_level": "sarva",
+        "cognitive_mode": "ritual_contemplative",
+        "pedagogical_stage": "mantric_unification"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "self_check": {
+    "unit_count": 1,
+    "ids_unique": true,
+    "structure_valid": true
+  }
+}

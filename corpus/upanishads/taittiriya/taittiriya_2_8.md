@@ -1,0 +1,234 @@
+# Taittirīya Upaniṣad Ānandavallī Chapter 8
+
+cognitive_mode: analytic_contemplative
+knowledge_tier: para_vidyā
+macro_function: brahman_inquiry
+
+primary_themes:
+  - brahman_definition
+  - identity_inquiry
+  - kosha_analysis
+  - contemplative_recognition
+
+pedagogical_role:
+  function: initiate_identity_inquiry
+  emphasis: definition_of_brahman
+
+practice_domain:
+  - contemplative_analysis
+  - self_inquiry
+  - ontological_reflection
+
+adhikāra_level: madhyama
+
+transition_goal:
+  description: investigation_of_identity_layers
+  prepares_for: recognition_of_brahman
+
+symbolic_motifs:
+  - brahman_as_infinite
+
+  - layered_identity
+
+  - inward_inquiry
+
+Cluster_names:
+
+- brahman_definition
+- identity_analysis
+- experiential_scale
+
+---
+
+## Text 2.8.1
+
+**Sanskrit**
+
+भीषाऽस्माद्वातः पवते । भीषोदेति सूर्यः ।
+भीषाऽस्मादग्निश्चेन्द्रश्च । मृत्युर्धावति पञ्चम इति ।
+सैषाऽऽनन्दस्य मीमाꣳसा भवति ।
+युवा स्यात्साधुयुवाऽध्यायकः ।
+आशिष्ठो दृढिष्ठो बलिष्ठः ।
+तस्येयं पृथिवी सर्वा वित्तस्य पूर्णा स्यात् ।
+स एको मानुष आनन्दः । ते ये शतं मानुषा आनन्दाः ॥ १॥
+
+**Transliteration**
+
+bhīṣā'smādvātaḥ pavate | bhīṣodeti sūryaḥ |
+bhīṣā'smādagniścendraśca | mṛtyurdhāvati pañcama iti |
+saiṣā''nandasya mīmāṃsā bhavati |
+yuvā syātsādhuyuvā'dhyāyakaḥ |
+āśiṣṭho dṛḍhiṣṭho baliṣṭhaḥ |
+tasyeyaṃ pṛthivī sarvā vittasya pūrṇā syāt |
+sa eko mānuṣa ānandaḥ | te ye śataṃ mānuṣā ānandāḥ || 1 ||
+
+**Translation**
+
+Through fear of Him blows the wind. Through fear of Him rises the sun. Through fear of Him again Fire and Moon, and lastly the fifth, Death, proceeds to their respective duties. The following is the enquiry concerning the Bliss (Brahmananda Rasa). Suppose there be a youth, good, well-versed in the scriptures, well disciplined, resolute, and very strong. Suppose to him belongs all this earth full of wealth. This is one human bliss.
+
+```yaml
+cluster: experiential_scale
+prakriyā: experiential_comparison
+ontological_scope: vyavahārika
+pedagogical_role: establish_bliss_baseline
+adhikāra_level: madhyama
+cognitive_mode: contemplative
+pedagogical_stage: nididhyāsana
+```
+
+---
+
+## Text 2.8.2
+
+**Sanskrit**
+
+स एको मनुष्यगन्धर्वाणामानन्दः । श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं मनुष्यगन्धर्वाणामानन्दाः ।
+स एको देवगन्धर्वाणामानन्दः । श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं देवगन्धर्वाणामानन्दाः ।
+स एकः पितृणां चिरलोकलोकानामानन्दः ।
+श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं पितृणां चिरलोकलोकानामानन्दाः ।
+स एक आजानजानां देवानामानन्दः ॥ २ ॥
+
+**Transliteration**
+
+sa eko manuṣyagandharvāṇāmānandaḥ | śrotriyasya cākāmahatasya |
+te ye śataṃ manuṣyagandharvāṇāmānandāḥ |
+sa eko devagandharvāṇāmānandaḥ | śrotriyasya cākāmahatasya |
+te ye śataṃ devagandharvāṇāmānandāḥ |
+sa ekaḥ pitṛṇāṃ ciralokalokānāmānandaḥ |
+śrotriyasya cākāmahatasya |
+te ye śataṃ pitṛṇāṃ ciralokalokānāmānandāḥ |
+sa eka ājānajānāṃ devānāmānandaḥ || 2 ||
+
+**Translation**
+
+This unit of bliss of man multiplied hundred fold is the bliss of human Gandharvas and this is also the bliss of one, versed in the Vedas and who is free from desires. A hundred-fold of the bliss of the human-Gandharvas is the unit of measure of the bliss of the celestial Gandharvas. This is the same as the bliss of one who is well versed in the Vedas and who is free from desires. A hundred-fold of the bliss of the celestial-Gandharvas is the unit of measure of the joy of the Manes, whose world continues for long. the same is the joys expressed by one well-vesed in the vedas and who is free from desires. This joy of Manes whose worlds are relatively immortal, multiplied by a hundred-fold is one unit of trhe joy of the Ajanaja gods born in the Deva loka. And it is also the measure of the bliss of the Srotriya who has transcended all his desires.
+
+```yaml
+cluster: experiential_scale
+prakriyā: experiential_comparison
+ontological_scope: vyavahārika
+pedagogical_role: expand_bliss_hierarchy
+adhikāra_level: madhyama
+cognitive_mode: contemplative
+pedagogical_stage: nididhyāsana
+```
+
+---
+
+## Text 2.8.3
+
+**Sanskrit**
+
+श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं आजानजानां देवानामानन्दाः ।
+स एकः कर्मदेवानां देवानामानन्दः ।
+ये कर्मणा देवानपियन्ति । श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं कर्मदेवानां देवानामानन्दाः ।
+स एको देवानामानन्दः । श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं देवानामानन्दाः । स एक इन्द्रस्याऽऽनन्दः ॥ ३ ॥
+
+**Transliteration**
+
+śrotriyasya cākāmahatasya |
+te ye śataṃ ājānajānāṃ devānāmānandāḥ |
+sa ekaḥ karmadevānāṃ devānāmānandaḥ |
+ye karmaṇā devānapiyanti | śrotriyasya cākāmahatasya |
+te ye śataṃ karmadevānāṃ devānāmānandāḥ |
+sa eko devānāmānandaḥ | śrotriyasya cākāmahatasya |
+te ye śataṃ devānāmānandāḥ | sa eka indrasyā''nandaḥ || 3 ||
+
+**Translation**
+
+This joy of the Gods born in the deva loka multipled a hundred-fold is a unit of joy of the gods (Karma Devas) who have become so by their special Karma, and it is also the joy of a Srotriya, free from desires. A hundred times this joy of the gods (Karma Devas) who have become so by their special Karma is the simple unit of joy of the gods (office-bearers) and it is also the measure of the bliss of the Srotriya who has transcended all his desires. One hundred measures of the happiness of the gods (office-bearers) is the simple unit of joy of Indra (the king of Gods) and it is also the measure of the bliss of the Srotriya who has transcended all his desires.
+
+```yaml
+cluster: experiential_scale
+prakriyā: experiential_comparison
+ontological_scope: vyavahārika
+pedagogical_role: continue_bliss_hierarchy
+adhikāra_level: madhyama
+cognitive_mode: contemplative
+pedagogical_stage: nididhyāsana
+```
+
+---
+
+## Text 2.8.4
+
+**Sanskrit**
+
+श्रोत्रियस्य चाकामहतस्य । ते ये शतमिन्द्रस्याऽऽनन्दाः ।
+स एको बृहस्पतेरानन्दः । श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं बृहस्पतेरानन्दाः । स एकः प्रजापतेरानन्दः ।
+श्रोत्रियस्य चाकामहतस्य ।
+ते ये शतं प्रजापतेरानन्दाः ।
+स एको ब्रह्मण आनन्दः । श्रोत्रियस्य चाकामहतस्य ॥ ४ ॥
+
+**Transliteration**
+
+śrotriyasya cākāmahatasya | te ye śatamindrasyā''nandāḥ |
+sa eko bṛhaspaterānandaḥ | śrotriyasya cākāmahatasya |
+te ye śataṃ bṛhaspaterānandāḥ | sa ekaḥ prajāpaterānandaḥ |
+śrotriyasya cākāmahatasya |
+te ye śataṃ prajāpaterānandāḥ |
+sa eko brahmaṇa ānandaḥ | śrotriyasya cākāmahatasya || 4 ||
+
+**Translation**
+
+A hundred-fold the bliss of Indra is the unit of joy of Brhaspati (the adviser and Guru of the Gods) and it is also the measure of the bliss of the Srotriya who has transcended all his desires. A hundred-fold the bliss of Brhaspati is the unit of joy of Prajapati (the father of creatures of the universe) and it is also the measure of the bliss of the Srotriya who has transcended all his desires. A hundred-fold the bliss of Prajapati is the unit of joy of Brahman which is in no way greater than the bliss of the Srotriya (one who is well versed in the Vedas) and who in his experience of the Reality is devoid of all desires.
+
+```yaml
+cluster: experiential_scale
+prakriyā: experiential_comparison
+ontological_scope: vyavahārika
+pedagogical_role: culminate_bliss_scale
+adhikāra_level: madhyama
+cognitive_mode: contemplative
+pedagogical_stage: nididhyāsana
+```
+
+---
+
+## Text 2.8.5
+
+**Sanskrit**
+
+स यश्चायं पुरुषे । यश्चासावादित्ये । स एकः ।
+स य एवंवित् । अस्माल्लोकात्प्रेत्य ।
+एतमन्नमयमात्मानमुपसङ्क्रामति ।
+एतं प्राणमयमात्मानमुपसङ्क्रामति ।
+एतं मनोमयमात्मानमुपसङ्क्रामति ।
+एतं विज्ञानमयमात्मानमुपसङ्क्रामति ।
+एतमानन्दमयमात्मानमुपसङ्क्रामति ।
+तदप्येष श्लोको भवति ॥ ५ ॥ इत्यष्टमोऽनुवाकः ॥
+
+**Transliteration**
+
+sa yaścāyaṃ puruṣe | yaścāsāvāditye | sa ekaḥ |
+sa ya evaṃvit | asmāllokātpretya |
+etamannamayamātmānamupasaṅkrāmati |
+etaṃ prāṇamayamātmānamupasaṅkrāmati |
+etaṃ manomayamātmānamupasaṅkrāmati |
+etaṃ vijñānamayamātmānamupasaṅkrāmati |
+etamānandamayamātmānamupasaṅkrāmati |
+tadapyeṣa śloko bhavati || 5 || ityaṣṭamo'nuvākaḥ ||
+
+**Translation**
+
+The Reality in the core of the man and the Reality which is the Sun, are one. He who knows this, on leaving from this world, first attains the Atman made of food, next attains this Atman made of Prana, next attains this Atman made of Buddhi and lastly attains the Atman made of Bliss||. Regarding this there is the following verse:
+
+```yaml
+cluster: brahman_definition
+prakriyā: identity_reintegration
+ontological_scope: pāramārthika
+pedagogical_role: unify_macrocosm_microcosm
+adhikāra_level: madhyama
+cognitive_mode: contemplative
+pedagogical_stage: nididhyāsana
+```
+
+---
+

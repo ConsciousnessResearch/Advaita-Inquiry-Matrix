@@ -1,0 +1,118 @@
+# Taittirīya Upaniṣad Ānandavallī Chapter 2
+
+cognitive_mode: analytic_contemplative
+knowledge_tier: para_vidyā
+macro_function: brahman_inquiry
+
+primary_themes:
+  - brahman_definition
+  - identity_inquiry
+  - kosha_analysis
+  - contemplative_recognition
+
+pedagogical_role:
+  function: initiate_identity_inquiry
+  emphasis: definition_of_brahman
+
+practice_domain:
+  - contemplative_analysis
+  - self_inquiry
+  - ontological_reflection
+
+adhikāra_level: madhyama
+
+transition_goal:
+  description: investigation_of_identity_layers
+  prepares_for: recognition_of_brahman
+
+symbolic_motifs:
+  - brahman_as_infinite
+
+  - layered_identity
+
+  - inward_inquiry
+
+Cluster_names:
+
+- brahman_definition
+- identity_analysis
+- experiential_scale
+
+---
+
+## Text 2.2.1
+
+**Sanskrit**
+
+अन्नाद्वै प्रजाः प्रजायन्ते । याः काश्च पृथिवीꣳश्रिताः ।
+अथो अन्नेनैव जीवन्ति । अथैनदपि यन्त्यन्ततः ।
+अन्नꣳहि भूतानां ज्येष्ठम् । तस्मात् सर्वौषधमुच्यते ।
+सर्वं वै तेऽन्नमाप्नुवन्ति । येऽन्नं ब्रह्मोपासते ।
+अन्नꣳहि भूतानां ज्येष्ठम् । तस्मात् सर्वौषधमुच्यते ।
+अन्नाद् भूतानि जायन्ते । जातान्यन्नेन वर्धन्ते ।
+अद्यतेऽत्ति च भूतानि । तस्मादन्नं तदुच्यत इति ।
+
+**Transliteration**
+
+annād vai prajāḥ prajāyante | yāḥ kāśca pṛthivīṃśritāḥ |
+atho annenaiva jīvanti | athainadapi yantyantataḥ |
+annaṃhi bhūtānāṃ jyeṣṭham | tasmāt sarvauṣadhamucyate |
+sarvaṃ vai te'nnamāpnuvanti | ye'nnaṃ brahmopāsate |
+annaṃhi bhūtānāṃ jyeṣṭham | tasmāt sarvauṣadhamucyate |
+annād bhūtāni jāyante | jātānyannena vardhante |
+adyate'tti ca bhūtāni | tasmādannaṃ taducyata iti || 1 ||
+
+**Translation**
+
+From food indeed are (all) creatures born, whatever(creatures) dwell on earth; by food, again, surely they live; then again to the food they go at the end. Food, surely, is of beings the eldest; thence it is called the medicament of all. All food, verily, they obtain, who food as Brahman regard; for, food is the eldest of beings, and thence it is called the medicament of all. From food are beings born; when born, by food they grow. It is fed upon, and it feeds on beings; thence food it is called.
+
+```yaml
+cluster: identity_analysis
+prakriyā: kosha_examination
+ontological_scope: vyavahārika
+pedagogical_role: examine_annamaya_identity
+adhikāra_level: madhyama
+cognitive_mode: analytic_contemplative
+pedagogical_stage: manana
+```
+
+---
+
+## Text 2.2.2
+
+**Sanskrit**
+
+तस्माद्वा एतस्मादन्नरसमयात् । अन्योऽन्तर आत्मा प्राणमयः ।
+तेनैष पूर्णः । स वा एष पुरुषविध एव ।
+तस्य पुरुषविधताम् । अन्वयं पुरुषविधः ।
+तस्य प्राण एव शिरः । व्यानो दक्षिणः पक्षः ।
+अपान उत्तरः पक्षः । आकाश आत्मा ।
+पृथिवी पुच्छं प्रतिष्ठा । तदप्येष श्लोको भवति ॥ १॥
+इति द्वितीयोऽनुवाकः ॥
+
+**Transliteration**
+
+tasmādvā etasmādannarasamayāt | anyo'ntara ātmā prāṇamayaḥ |
+tenaiṣa pūrṇaḥ | sa vā eṣa puruṣavidha eva |
+tasya puruṣavidhatām | anvayaṃ puruṣavidhaḥ |
+tasya prāṇa eva śiraḥ | vyāno dakṣiṇaḥ pakṣaḥ |
+apāna uttaraḥ pakṣaḥ | ākāśa ātmā |
+pṛthivī pucchaṃ pratiṣṭhā | tadapyeṣa śloko bhavati || 2 ||
+iti dvitīyo'nuvākaḥ ||
+
+**Translation**
+
+Than that, verily,—than this one formed of food-essence,—there is another self within, formed of Prāṇa; by him this one is filled. He, verily,—this one,—is quite of man’s shape. After his human shape, this one is of man’s shape. Of him prāṇa itself is the head, vyāna is the right wing, apāna is the left wing, ākāśa is the self, the earth is the tail, the support. On that, too, there is this verse:
+
+```yaml
+cluster: identity_analysis
+prakriyā: kosha_examination
+ontological_scope: vyavahārika
+pedagogical_role: introduce_pranamaya_identity
+adhikāra_level: madhyama
+cognitive_mode: analytic_contemplative
+pedagogical_stage: manana
+```
+
+---
+
