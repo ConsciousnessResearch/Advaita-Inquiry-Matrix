@@ -180,7 +180,7 @@ PRAKRIYA_MAP = {
     # Added by Task 2 audit (2026-06-01): the fifth sheath was absent from the taxonomy.
     # This is the ROOT case — borders the mūlāvidyā limit per the Scherf library
     # (AV15: causal body is the seed of ignorance persisting in suṣupti).
-    # Routing PENDING confirmation from the philosophical authority.
+    # Routing confirmed by philosophical authority (Dev Bhagavān, 2026-06-01).
     # Pedagogical note: avoid bliss-as-goal-framing (ānandamaya is a kośa rooted in
     # avidyā, not Brahman — Śaṅkara, ānandamayo'bhyāsāt). Like saksi-adhyasa, avoid
     # witness-stabilization at nididhyāsana: the causal-bliss "I" must dissolve, not
