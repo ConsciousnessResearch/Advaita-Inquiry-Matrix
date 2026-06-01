@@ -39,9 +39,14 @@ import streamlit as st
 # We copy them into os.environ so the rest of the codebase reads them the
 # same way whether running locally or in the cloud.
 
-for _key in ("ANTHROPIC_API_KEY", "AIM_MODEL", "AIM_GUARDRAIL_MODEL"):
-    if _key not in os.environ and _key in st.secrets:
-        os.environ[_key] = st.secrets[_key]
+try:
+    for _key in ("ANTHROPIC_API_KEY", "AIM_MODEL", "AIM_GUARDRAIL_MODEL"):
+        if _key not in os.environ:
+            _val = st.secrets.get(_key)
+            if _val:
+                os.environ[_key] = _val
+except Exception:
+    pass  # running locally with .env — secrets not available
 
 # ---------- Late imports (after env vars are set) ---------------------------
 

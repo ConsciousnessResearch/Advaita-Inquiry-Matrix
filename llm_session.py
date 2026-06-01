@@ -98,7 +98,20 @@ _client: anthropic.Anthropic = None
 def _get_client() -> anthropic.Anthropic:
     global _client
     if _client is None:
-        _client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        api_key = os.environ.get("ANTHROPIC_API_KEY")
+        if not api_key:
+            # Fallback: read directly from Streamlit secrets (cloud deployment)
+            try:
+                import streamlit as st
+                api_key = st.secrets.get("ANTHROPIC_API_KEY")
+            except Exception:
+                pass
+        if not api_key:
+            raise RuntimeError(
+                "ANTHROPIC_API_KEY is not set. "
+                "Add it to .env (local) or Streamlit secrets (cloud)."
+            )
+        _client = anthropic.Anthropic(api_key=api_key)
     return _client
 
 
