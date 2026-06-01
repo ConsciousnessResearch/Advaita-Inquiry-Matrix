@@ -19,6 +19,7 @@ from llm_session import (
     _extract_signal,
     _fetch_corpus,
     _generate_response,
+    _guardrail_check,
     _summarize_session,
     _log,
     _ckpt_append,
@@ -48,7 +49,7 @@ for key, default in {
 
 # ---------- Engine panel renderer ----------
 
-def _render_engine_panel(signal: dict, directive: dict) -> None:
+def _render_engine_panel(signal: dict, directive: dict, guardrail: dict | None = None) -> None:
     """Render a collapsible engine internals panel."""
     with st.expander("Engine", expanded=False):
         col1, col2 = st.columns(2)
@@ -95,6 +96,20 @@ def _render_engine_panel(signal: dict, directive: dict) -> None:
                     f"- Tone: `{intervention.get('tone')}` · "
                     f"Challenge: `{intervention.get('challenge_level')}`"
                 )
+
+        # Guardrail results — shown below the two columns
+        if guardrail is not None:
+            if guardrail.get("ok"):
+                st.markdown("**Guardrail** ✓ _no violations_")
+            else:
+                st.markdown(f"**Guardrail** ⚠ {len(guardrail['violations'])} violation(s)")
+                for v in guardrail["violations"]:
+                    severity_colour = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(
+                        v.get("severity", "medium"), "🟡"
+                    )
+                    st.markdown(
+                        f"{severity_colour} `{v['type']}` — _{v.get('evidence', '')}_ "
+                    )
 
 
 # ---------- Sidebar ----------
@@ -170,7 +185,7 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
     if st.session_state.show_engine and "signal" in msg:
-        _render_engine_panel(msg["signal"], msg["directive"])
+        _render_engine_panel(msg["signal"], msg["directive"], msg.get("guardrail"))
 
 # ---------- Chat input ----------
 
@@ -208,10 +223,17 @@ if st.session_state.active:
                     user_input,
                 )
 
+                # Post-generation guardrail (soft — logs, never blocks)
+                guardrail = _guardrail_check(response, st.session_state.directive)
+                if not guardrail["ok"]:
+                    _log(st.session_state.session_id, {
+                        "type": "guardrail", **guardrail,
+                    })
+
             st.markdown(response)
 
         if st.session_state.show_engine:
-            _render_engine_panel(signal, st.session_state.directive)
+            _render_engine_panel(signal, st.session_state.directive, guardrail)
 
         st.session_state.transcript.append({"role": "teacher", "text": response})
         st.session_state.messages.append({
@@ -219,6 +241,7 @@ if st.session_state.active:
             "content":   response,
             "signal":    signal,
             "directive": st.session_state.directive,
+            "guardrail": guardrail,
         })
 
         turn = {

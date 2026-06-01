@@ -24,6 +24,7 @@ logging.basicConfig(level=logging.WARNING, format="%(levelname)s: %(message)s")
 # ---------- Config ----------
 
 MODEL = os.environ.get("AIM_MODEL", "claude-opus-4-8")
+GUARDRAIL_MODEL = os.environ.get("AIM_GUARDRAIL_MODEL", "claude-haiku-4-5")
 MAX_API_RETRIES = 3
 BACKOFF_BASE = 1.0
 
@@ -266,6 +267,29 @@ def _summarize_session(transcript: list) -> dict:
     )
 
 
+# ---------- Post-generation guardrail ----------
+
+from engine.guardrail import (
+    validate_guardrail as _validate_guardrail,
+    scherf_library_check as _scherf_library_check,
+    guardrail_check as _guardrail_check_impl,
+)
+
+
+def _guardrail_check(response: str, directive: dict) -> dict:
+    """Post-generation soft guardrail. Delegates to engine.guardrail.
+
+    Returns a dict with 'ok' and 'violations'. NEVER raises — guardrail
+    failure must not block the session.
+    """
+    return _guardrail_check_impl(
+        response, directive,
+        call_with_repair_fn=_call_with_repair,
+        prompt_fn=_prompt,
+        guardrail_model=GUARDRAIL_MODEL,
+    )
+
+
 # ---------- Corpus fetch ----------
 
 def _fetch_corpus(directive: dict) -> list:
@@ -379,6 +403,17 @@ def run_session(student_id: str, session_id: str = None) -> None:
 
             corpus_units = _fetch_corpus(directive)
             response = _generate_response(directive, corpus_units, transcript, raw)
+
+            # Post-generation guardrail (soft — logs violations, never blocks)
+            guardrail = _guardrail_check(response, directive)
+            if not guardrail["ok"]:
+                logging.warning(
+                    "Guardrail: %d violation(s) in response — %s",
+                    len(guardrail["violations"]),
+                    [v["type"] for v in guardrail["violations"]],
+                )
+                _log(session_id, {"type": "guardrail", **guardrail})
+
             print(f"\nTeacher: {response}\n")
             transcript.append({"role": "teacher", "text": response})
 
@@ -388,6 +423,7 @@ def run_session(student_id: str, session_id: str = None) -> None:
                 "signal": signal,
                 "directive": directive,
                 "teacher": response,
+                "guardrail": guardrail,
             }
             _ckpt_append(ckpt, turn)
             _log(session_id, turn)
